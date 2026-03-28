@@ -252,6 +252,7 @@ export default function IndicadoresPage() {
                     <CartesianGrid strokeDasharray="3 3" opacity={0.2} vertical={false} />
                     <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} angle={-45} textAnchor="end" />
                     <YAxis domain={[0, 100]} axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} />
+                    <RechartsTooltip cursor={{fill: 'transparent'}} contentStyle={{borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'}} />
                     <Bar dataKey="executado" name="% Realizado" radius={[4, 4, 0, 0]}>
                       {executionDataMock.map((entry: any, index: number) => <Cell key={index} fill={entry.executado >= 90 ? '#10B981' : entry.executado >= 75 ? '#F59E0B' : '#EF4444'} />)}
                     </Bar>
@@ -267,6 +268,7 @@ export default function IndicadoresPage() {
                     <CartesianGrid strokeDasharray="3 3" opacity={0.2} vertical={false} />
                     <XAxis dataKey="year" axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} />
                     <YAxis reversed domain={[1, 10]} axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} tickCount={5} />
+                    <RechartsTooltip contentStyle={{borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'}} />
                     <Line type="monotone" dataKey="clp" name="CLP" stroke="#EAB308" strokeWidth={3} dot={false} />
                     <Line type="monotone" dataKey="csc" name="CSC" stroke="#10B981" strokeWidth={3} dot={false} />
                   </LineChart>
@@ -280,6 +282,7 @@ export default function IndicadoresPage() {
                   <RadarChart cx="50%" cy="50%" outerRadius="65%" data={radarDataMock}>
                     <PolarGrid stroke="#e5e7eb" />
                     <PolarAngleAxis dataKey="subject" tick={{ fill: '#374151', fontSize: 10, fontWeight: 600 }} />
+                    <RechartsTooltip contentStyle={{borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'}} />
                     <Radar name="Floripa" dataKey="floripa" stroke="#10B981" strokeWidth={2} fill="#10B981" fillOpacity={0.4} />
                     <Radar name="Brasil" dataKey="media" stroke="#6366f1" strokeWidth={2} fill="#6366f1" fillOpacity={0.15} />
                   </RadarChart>
@@ -373,6 +376,7 @@ export default function IndicadoresPage() {
                   <CartesianGrid strokeDasharray="3 3" opacity={0.2} vertical={false} />
                   <XAxis dataKey="name" axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} angle={-45} textAnchor="end" />
                   <YAxis domain={[0, 100]} axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} />
+                  <RechartsTooltip cursor={{fill: 'transparent'}} contentStyle={{borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'}} />
                   <Bar dataKey="executado" name="% Realizado" radius={[4, 4, 0, 0]}>
                     {executionDataMock.map((entry: any, index: number) => <Cell key={index} fill={entry.executado >= 90 ? '#10B981' : entry.executado >= 75 ? '#F59E0B' : '#EF4444'} />)}
                   </Bar>
@@ -388,6 +392,7 @@ export default function IndicadoresPage() {
                   <CartesianGrid strokeDasharray="3 3" opacity={0.2} vertical={false} />
                   <XAxis dataKey="year" axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} />
                   <YAxis reversed domain={[1, 10]} axisLine={false} tickLine={false} tick={{fill: '#4b5563', fontSize: 10}} tickCount={5} />
+                  <RechartsTooltip contentStyle={{borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'}} />
                   <Line type="monotone" dataKey="clp" name="CLP" stroke="#EAB308" strokeWidth={3} dot={false} />
                   <Line type="monotone" dataKey="csc" name="CSC" stroke="#10B981" strokeWidth={3} dot={false} />
                 </LineChart>
@@ -401,6 +406,7 @@ export default function IndicadoresPage() {
                 <RadarChart cx="50%" cy="50%" outerRadius="65%" data={radarDataMock}>
                   <PolarGrid stroke="#e5e7eb" />
                   <PolarAngleAxis dataKey="subject" tick={{ fill: '#374151', fontSize: 10, fontWeight: 600 }} />
+                  <RechartsTooltip contentStyle={{borderRadius: '8px', border: 'none', boxShadow: '0 4px 6px -1px rgb(0 0 0 / 0.1)'}} />
                   <Radar name="Floripa" dataKey="floripa" stroke="#10B981" strokeWidth={2} fill="#10B981" fillOpacity={0.4} />
                   <Radar name="Brasil" dataKey="media" stroke="#6366f1" strokeWidth={2} fill="#6366f1" fillOpacity={0.15} />
                 </RadarChart>

@@ -257,3 +257,54 @@ export const kpisMock = [
     color: "bg-purple-500/10 border-purple-500/20"
   }
 ];
+
+export const rankingComparisonData = [
+  {
+    id: "clp",
+    name: "Ranking CLP",
+    description: "Foco em Competitividade e Eficiência da Máquina",
+    color: "bg-yellow-500",
+    textColor: "text-yellow-600 dark:text-yellow-500",
+    border: "border-yellow-200 dark:border-yellow-500/30",
+    bgLight: "bg-yellow-50 dark:bg-yellow-500/10",
+    focus: ["Sustentabilidade Fiscal", "Resultados Básicos (Educação/Saúde)", "Tamanho da Máquina", "Segurança Patrimonial e Viária"],
+    diverges: ["Menos peso para tecnologia aplicada", "Foco forte no equilíbrio de contas e PIB", "Punições severas para déficit em saneamento"],
+    intersection: "Saúde Básica, Escolarização Básica, Homicídios, Equilíbrio Fiscal"
+  },
+  {
+    id: "csc",
+    name: "Smart Cities (CSC)",
+    description: "Foco em Tecnologia, Inovação e Integração Urbana",
+    color: "bg-emerald-500",
+    textColor: "text-emerald-600 dark:text-emerald-500",
+    border: "border-emerald-200 dark:border-emerald-500/30",
+    bgLight: "bg-emerald-50 dark:bg-emerald-500/10",
+    focus: ["Mobilidade Inteligente", "Serviços 100% Digitais", "Empreendedorismo Tech", "Sensores, IoT e Monitoramento"],
+    diverges: ["Exige alta conectividade viária e tecnológica", "Mobilidade não-motorizada (Ciclovias) é vital", "Inovação pesa mais que manutenção do básico"],
+    intersection: "Dados Abertos Gov., Qualidade de Ensino, Acesso Digital à Saúde"
+  },
+  {
+    id: "phen",
+    name: "Floripa em Números",
+    description: "Dados Brutos Locais e Demográficos Reais",
+    color: "bg-blue-500",
+    textColor: "text-blue-600 dark:text-blue-500",
+    border: "border-blue-200 dark:border-blue-500/30",
+    bgLight: "bg-blue-50 dark:bg-blue-500/10",
+    focus: ["Estatísticas diretas do Município (IBGE/Local)", "Visão realista sem notas ponderadas", "Crescimento Populacional e Gargalos"],
+    diverges: ["Não é uma métrica que dá nota ou ranqueia", "Apresenta gargalos crônicos abertamente (Falta de creches, Fila SUS)"],
+    intersection: "A base bruta material que alimenta as planilhas do CLP e CSC"
+  },
+  {
+    id: "pmf",
+    name: "Plano de Metas (PMF)",
+    description: "Promessas de Governo e Entregas Físicas/Políticas",
+    color: "bg-gray-800",
+    textColor: "text-gray-900 dark:text-white",
+    border: "border-gray-300 dark:border-gray-600",
+    bgLight: "bg-gray-100 dark:bg-gray-800",
+    focus: ["Obras e Infraestrutura Direta", "Programas de Governo (Alô Saúde, Lixo Zero)", "Esforço Fiscal e Contratações (Concursos)"],
+    diverges: ["Voltado a esforço político e orçamento local", "Mede a \"vontade e execução\" da prefeitura, mesmo que o impacto no CLP seja tardio"],
+    intersection: "A ponte de ação para melhorar os índices de Floripa no cenário nacional"
+  }
+];

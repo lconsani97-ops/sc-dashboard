@@ -16,7 +16,7 @@ import {
 
 import { 
   comparisonAxes, kpisMock, executionDataMock, 
-  historicalRankingsMock, radarDataMock, 
+  historicalRankingsMock, radarDataMock, rankingComparisonData,
   StatusColor, MetricMapping, NO_MATCH_TEXT 
 } from "../../data/mockIndicadores";
 
@@ -194,6 +194,71 @@ export default function IndicadoresPage() {
       </div>
     );
   };
+
+  const ComparativeAnalysisView = () => (
+    <div className="animate-in slide-in-from-bottom-8 fade-in duration-500 w-full space-y-8">
+      <div className="bg-gradient-to-r from-indigo-900 to-slate-900 rounded-3xl p-8 lg:p-10 text-white shadow-2xl relative overflow-hidden">
+         <div className="absolute top-0 right-0 p-8 opacity-10">
+            <Layers size={120} />
+         </div>
+         <div className="relative z-10">
+           <span className="bg-indigo-500/30 border border-indigo-400/30 text-indigo-100 text-[10px] font-black px-3 py-1 rounded-sm uppercase tracking-widest mb-4 inline-block shadow-sm">Síntese de Metodologia</span>
+           <h2 className="text-3xl lg:text-4xl font-black tracking-tighter mb-4">Análise Comparativa de Institutos</h2>
+           <p className="max-w-3xl text-indigo-100/80 leading-relaxed text-sm">
+             Este painel evidencia as convergências e divergências de avaliação entre o Ranking CLP (Morbidade/Recursos), Connected Smart Cities (Tecnologia/Sustentabilidade), o Plano de Metas PMF (Operacional) e Floripa em Números (Dados Demográficos). Entenda o foco de cobrança de cada instituição.
+           </p>
+         </div>
+      </div>
+
+      <div className="grid grid-cols-1 xl:grid-cols-2 gap-6">
+        {rankingComparisonData.map((ranking, idx) => (
+          <div key={idx} className={`p-8 rounded-3xl border-2 ${ranking.bgLight} ${ranking.border} shadow-sm flex flex-col h-full bg-white dark:bg-gray-900/40 relative overflow-hidden transition-all hover:shadow-md`}>
+            {/* Header */}
+            <div className="flex items-center gap-4 mb-6 relative z-10">
+               <div className={`w-14 h-14 rounded-2xl flex items-center justify-center shadow-lg ${ranking.color} text-white`}>
+                 <Layers size={24} />
+               </div>
+               <div>
+                  <h3 className={`text-2xl font-black tracking-tight ${ranking.textColor} uppercase`}>{ranking.name}</h3>
+                  <p className="text-gray-500 dark:text-gray-400 text-xs font-bold uppercase tracking-widest mt-1">{ranking.description}</p>
+               </div>
+            </div>
+
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mt-4 flex-1 relative z-10">
+               <div className="bg-white/60 dark:bg-gray-800/60 p-5 rounded-2xl border border-white/50 dark:border-gray-700/50 backdrop-blur-sm shadow-sm">
+                  <h4 className="font-extrabold text-gray-900 dark:text-white uppercase text-[10px] tracking-widest mb-3 flex items-center gap-2"><Target size={14} className={ranking.textColor}/> Onde Focam (Pontos Fortes)</h4>
+                  <ul className="space-y-2">
+                    {ranking.focus.map((item, i) => (
+                      <li key={i} className="text-sm font-medium text-gray-700 dark:text-gray-300 flex items-start gap-2 leading-tight">
+                        <span className={`w-1.5 h-1.5 rounded-full mt-1.5 shrink-0 ${ranking.color}`}/> {item}
+                      </li>
+                    ))}
+                  </ul>
+               </div>
+               
+               <div className="flex flex-col gap-4">
+                 <div className="bg-white/60 dark:bg-gray-800/60 p-5 rounded-2xl border border-white/50 dark:border-gray-700/50 backdrop-blur-sm shadow-sm flex-1">
+                    <h4 className="font-extrabold text-gray-900 dark:text-white uppercase text-[10px] tracking-widest mb-2 flex items-center gap-2"><ArrowRight size={14} className="text-rose-500"/> Onde Divergem</h4>
+                    <ul className="space-y-2">
+                      {ranking.diverges.map((item, i) => (
+                        <li key={i} className="text-xs font-medium text-gray-600 dark:text-gray-400 flex items-start gap-2 leading-tight">
+                          <span className="w-1.5 h-1.5 rounded-full mt-1.5 bg-rose-400 shrink-0"/> {item}
+                        </li>
+                      ))}
+                    </ul>
+                 </div>
+               </div>
+            </div>
+
+            <div className="mt-6 bg-white/60 dark:bg-gray-800/60 p-5 rounded-2xl border border-white/50 dark:border-gray-700/50 backdrop-blur-sm shadow-sm relative z-10">
+                <h4 className="font-extrabold text-gray-900 dark:text-white uppercase text-[10px] tracking-widest mb-2 flex items-center gap-2"><LinkIcon size={14} className="text-blue-500"/> Ponto de Interseção Global</h4>
+                <p className="text-sm font-bold text-gray-800 dark:text-gray-200">{ranking.intersection}</p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
 
   // --- REPORT VIEW RENDER ---
   if (reportView) {
@@ -420,6 +485,9 @@ export default function IndicadoresPage() {
           <div className="xl:w-[320px] bg-white p-6 border-r border-gray-200 shadow-sm shrink-0">
             <span className="block text-[10px] font-black uppercase text-gray-500 mb-4 tracking-widest">Seleção de Pasta</span>
             <nav className="flex flex-row xl:flex-col gap-3 overflow-x-auto pb-4 xl:pb-0 scrollbar-thin scrollbar-thumb-gray-200">
+              <button onClick={() => setActiveTab('comparativo')} className={`flex items-center justify-between px-5 py-4 rounded-xl text-sm transition-all border-2 ${activeTab === 'comparativo' ? 'bg-indigo-900 border-indigo-900 text-white shadow-lg scale-105' : 'bg-white text-gray-600 hover:bg-gray-50 border-gray-200'}`}>
+                <div className="flex items-center gap-3"><span className={`${activeTab === 'comparativo' ? 'text-white' : 'text-gray-400'}`}><Layers size={18}/></span><span className="font-black uppercase tracking-wider text-xs">Visão Comparativa</span></div>
+              </button>
               {comparisonAxes.map(axis => (
                 <button key={axis.id} onClick={() => setActiveTab(axis.id)} className={`flex items-center justify-between px-5 py-4 rounded-xl text-sm transition-all border-2 ${activeTab === axis.id ? 'bg-gray-900 border-gray-900 text-white shadow-lg scale-105' : 'bg-white text-gray-600 hover:bg-gray-50 border-gray-200'}`}>
                   <div className="flex items-center gap-3"><span className={`${activeTab === axis.id ? 'text-white' : 'text-gray-400'}`}>{axis.icon}</span><span className="font-black uppercase tracking-wider text-xs">{axis.title}</span></div>
@@ -429,7 +497,9 @@ export default function IndicadoresPage() {
           </div>
 
           <div className="flex-1 p-6 xl:p-10 bg-gray-50/50 w-full overflow-hidden">
-            {activeAxisData && (
+            {activeTab === 'comparativo' ? (
+              <ComparativeAnalysisView />
+            ) : activeAxisData && (
               <div className="animate-in slide-in-from-right-8 fade-in duration-300 w-full overflow-hidden">
                 {/* RESTORED LISTS */}
                 {restoredFourColumnSummary(activeAxisData)}

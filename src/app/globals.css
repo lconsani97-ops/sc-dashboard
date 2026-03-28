@@ -1,0 +1,52 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme {
+  --color-podemos-blue: #0f4c81; /* Primary blue */
+  --color-podemos-green: #009b3a; /* Primary green */
+  --color-podemos-light: #f5f8fa;
+  
+  /* Gemini-like Sleek Dark Theme Overrides */
+  --color-gray-950: #0a0a0b;
+  --color-gray-900: #131314; /* Deep background */
+  --color-gray-800: #1e1f22; /* Card background */
+  --color-gray-700: #2a2b2f; /* Hover states */
+  --color-gray-600: #333538; /* Borders */
+  --color-gray-500: #5f6368;
+  --color-gray-400: #9aa0a6;
+  --color-gray-300: #c4c7c5; /* Secondary text */
+  --color-gray-200: #e3e3e3; /* Primary text */
+  --color-gray-100: #f1f3f4;
+  --color-gray-50:  #f8f9fa;
+
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  --background: #131314;
+  --foreground: #e3e3e3;
+  color-scheme: dark;
+}
+
+.dark {
+  --background: #131314;
+  --foreground: #e3e3e3;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Custom map marker pulse animation without transform (transform breaks Leaflet SVG coordinates) */
+@keyframes pulse-marker {
+  0% { fill-opacity: 0.6; stroke-opacity: 0.8; }
+  50% { fill-opacity: 0.3; stroke-opacity: 0.3; }
+  100% { fill-opacity: 0.6; stroke-opacity: 0.8; }
+}
+
+.marker-pulse {
+  animation: pulse-marker 2s infinite ease-in-out;
+}

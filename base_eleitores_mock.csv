@@ -1,0 +1,851 @@
+Nome,Cidade,Bairro,Engajamento,Posicao,Lideranca,Idade,Genero,Telefone,Email,Tags,DataRegistro
+Eleitor 1,Florianopolis,Ingleses,1,1,Joao Silva;Maria Paula;Vereador XYZ,57,Feminino,(47) 98432-7606,eleitor.1@email.com,Reclamante,2024-01-09T06:19:39.489Z
+Eleitor 2,Blumenau,Centro,4,1,Maria Paula;Ana Beatriz,56,Outro,,,Influenciador,2023-06-11T20:01:50.759Z
+Eleitor 3,Florianopolis,Agronomica,1,3,Ana Beatriz,55,Masculino,(49) 94795-8542,eleitor.3@email.com,,2025-12-26T17:31:45.662Z
+Eleitor 4,Florianopolis,Ingleses,4,1,Vereador XYZ;Ana Beatriz,78,Outro,(47) 96177-1103,eleitor.4@email.com,Indeciso,2023-08-13T04:42:46.709Z
+Eleitor 5,Sao Jose,Centro,2,1,Carlos Eduardo;Ana Beatriz;Maria Paula,49,Feminino,,,,2023-06-12T01:38:44.926Z
+Eleitor 6,Florianopolis,Trindade,1,4,Maria Paula;Joao Silva;Ana Beatriz,25,Masculino,(48) 93450-6611,,Doador,2025-01-28T12:00:24.821Z
+Eleitor 7,Florianopolis,Centro,1,4,Maria Paula;Joao Silva,54,Outro,,,Lideranca,2024-10-31T06:17:02.201Z
+Eleitor 8,Jaragua do Sul,Centro,3,2,Joao Silva,53,Feminino,(49) 91895-7078,eleitor.8@email.com,,2025-11-27T06:26:59.832Z
+Eleitor 9,Sao Jose,Centro,2,1,Vereador XYZ;Ana Beatriz,48,Feminino,(49) 92967-6725,eleitor.9@email.com,Influenciador,2023-10-31T20:53:24.295Z
+Eleitor 10,Itajai,Centro,2,2,Ana Beatriz;Carlos Eduardo;Maria Paula,59,Feminino,(48) 95963-9049,eleitor.10@email.com,,2026-03-06T11:18:10.009Z
+Eleitor 11,Joinville,Bucarein,3,1,Ana Beatriz,44,Feminino,,,,2025-02-05T22:34:21.930Z
+Eleitor 12,Palhoca,Centro,1,3,Joao Silva;Maria Paula;Carlos Eduardo,70,Feminino,(48) 91451-1635,eleitor.12@email.com,Lideranca,2024-09-12T19:44:46.506Z
+Eleitor 13,Brusque,Centro,1,3,Ana Beatriz;Vereador XYZ,63,Feminino,(48) 93650-6755,eleitor.13@email.com,,2023-02-05T22:50:38.977Z
+Eleitor 14,Balneario Camboriu,Centro,5,1,Joao Silva,71,Masculino,(47) 94100-5794,eleitor.14@email.com,Indeciso,2023-06-28T02:29:54.615Z
+Eleitor 15,Jaragua do Sul,Centro,2,2,Vereador XYZ;Ana Beatriz,72,Masculino,,,Voluntario,2023-12-03T11:56:23.879Z
+Eleitor 16,Tubarao,Centro,2,2,Carlos Eduardo,17,Feminino,(49) 95130-2859,,,2024-11-03T19:41:39.760Z
+Eleitor 17,Tubarao,Centro,2,1,Ana Beatriz;Carlos Eduardo,22,Masculino,,,,2023-09-06T04:13:15.755Z
+Eleitor 18,Joinville,Centro,2,1,Vereador XYZ,75,Masculino,(48) 97835-6953,eleitor.18@email.com,Voluntario,2025-10-17T19:34:28.908Z
+Eleitor 19,Florianopolis,Agronomica,5,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,40,Feminino,(49) 99487-6792,,,2025-01-09T16:12:36.673Z
+Eleitor 20,Brusque,Centro,3,3,Joao Silva;Maria Paula;Carlos Eduardo,53,Masculino,,,Reclamante,2023-01-12T22:42:19.078Z
+Eleitor 21,Joinville,Iririu,1,2,Maria Paula;Joao Silva;Carlos Eduardo,65,Masculino,(47) 92864-2234,,Indeciso;Lideranca,2025-12-15T17:39:40.415Z
+Eleitor 22,Florianopolis,Centro,3,4,Joao Silva,46,Outro,(48) 92182-2012,eleitor.22@email.com,Voluntario,2023-01-20T01:45:24.339Z
+Eleitor 23,Joinville,Boa Vista,2,5,Joao Silva,21,Masculino,(47) 95184-5468,eleitor.23@email.com,Reclamante,2024-05-26T23:22:11.812Z
+Eleitor 24,Blumenau,Centro,5,1,Vereador XYZ,32,Feminino,(49) 93185-7994,,Lideranca,2025-11-10T07:16:54.074Z
+Eleitor 25,Chapeco,Centro,3,3,Joao Silva;Vereador XYZ;Ana Beatriz,30,Masculino,(47) 96663-2985,eleitor.25@email.com,,2025-06-12T05:50:11.959Z
+Eleitor 26,Balneario Camboriu,Centro,4,1,Maria Paula;Joao Silva,72,Outro,(47) 93866-2039,eleitor.26@email.com,,2023-03-04T19:25:14.057Z
+Eleitor 27,Criciuma,Centro,2,3,Ana Beatriz;Joao Silva,70,Outro,(49) 97798-7436,eleitor.27@email.com,Influenciador,2025-03-01T17:21:19.482Z
+Eleitor 28,Florianopolis,Centro,4,3,Joao Silva,17,Masculino,(48) 93756-5298,eleitor.28@email.com,Reclamante,2024-06-19T23:25:44.923Z
+Eleitor 29,Florianopolis,Campeche,1,2,Joao Silva,41,Masculino,,,,2025-01-01T21:30:31.431Z
+Eleitor 30,Blumenau,Centro,5,3,Ana Beatriz;Maria Paula;Vereador XYZ,29,Feminino,(49) 98663-1216,eleitor.30@email.com,,2024-04-14T05:30:37.714Z
+Eleitor 31,Florianopolis,Ingleses,2,1,Ana Beatriz;Carlos Eduardo;Maria Paula,19,Outro,(48) 96724-6491,eleitor.31@email.com,Voluntario,2024-04-08T20:00:34.197Z
+Eleitor 32,Florianopolis,Agronomica,1,1,Ana Beatriz;Carlos Eduardo;Maria Paula,46,Outro,(47) 96836-9784,eleitor.32@email.com,Doador,2023-02-09T16:41:53.033Z
+Eleitor 33,Joinville,Boa Vista,4,1,Carlos Eduardo;Maria Paula;Joao Silva,63,Feminino,(49) 93978-4589,,,2023-07-03T21:51:40.579Z
+Eleitor 34,Florianopolis,Estreito,1,1,Maria Paula;Joao Silva;Carlos Eduardo,52,Outro,(49) 97320-1856,,Apoiador Forte,2024-03-30T04:26:12.078Z
+Eleitor 35,Florianopolis,Campeche,5,1,Joao Silva;Ana Beatriz;Vereador XYZ,38,Masculino,(47) 94984-4036,,Lideranca,2025-04-04T10:24:10.114Z
+Eleitor 36,Sao Jose,Centro,2,3,Vereador XYZ;Joao Silva;Ana Beatriz,19,Masculino,,,Lideranca,2024-09-21T14:45:04.495Z
+Eleitor 37,Florianopolis,Trindade,2,3,Carlos Eduardo,53,Feminino,,,,2025-08-25T18:57:02.892Z
+Eleitor 38,Joinville,Centro,2,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,71,Feminino,(49) 98407-7413,eleitor.38@email.com,Influenciador,2024-03-01T19:34:22.093Z
+Eleitor 39,Criciuma,Centro,5,2,Vereador XYZ,59,Masculino,(47) 92713-2215,eleitor.39@email.com,Apoiador Forte,2023-12-23T05:04:30.742Z
+Eleitor 40,Joinville,Centro,3,3,Carlos Eduardo;Maria Paula;Ana Beatriz,18,Masculino,(48) 97189-4086,eleitor.40@email.com,Indeciso,2023-02-12T07:50:24.631Z
+Eleitor 41,Joinville,Bucarein,4,1,Joao Silva;Maria Paula;Carlos Eduardo,69,Outro,(49) 93802-3561,,Influenciador,2025-06-20T11:12:06.467Z
+Eleitor 42,Brusque,Centro,4,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,35,Feminino,,,,2024-10-20T13:06:34.384Z
+Eleitor 43,Florianopolis,Agronomica,4,3,Maria Paula;Joao Silva;Carlos Eduardo,30,Feminino,,,,2023-05-12T16:12:40.705Z
+Eleitor 44,Florianopolis,Coqueiros,3,1,Ana Beatriz;Carlos Eduardo,77,Feminino,,,Influenciador,2024-10-18T14:52:37.985Z
+Eleitor 45,Blumenau,Centro,3,1,Maria Paula,62,Outro,(49) 94609-2528,,,2024-12-13T02:33:54.211Z
+Eleitor 46,Joinville,Boa Vista,1,1,Ana Beatriz,21,Outro,(49) 95847-9812,,,2024-03-26T11:16:26.345Z
+Eleitor 47,Chapeco,Centro,4,5,Carlos Eduardo;Joao Silva,71,Feminino,,,,2024-08-28T05:17:13.218Z
+Eleitor 48,Chapeco,Centro,1,1,Carlos Eduardo;Maria Paula,35,Masculino,(48) 93576-3833,eleitor.48@email.com,,2023-07-11T21:34:55.236Z
+Eleitor 49,Joinville,Centro,1,2,Maria Paula;Carlos Eduardo;Vereador XYZ,72,Masculino,(47) 91986-9820,,Reclamante,2025-11-07T12:26:27.022Z
+Eleitor 50,Joinville,Boa Vista,2,1,Vereador XYZ,45,Masculino,(47) 99510-5769,,,2024-08-24T09:50:41.966Z
+Eleitor 51,Sao Jose,Centro,1,3,Vereador XYZ;Ana Beatriz;Carlos Eduardo,38,Feminino,,,Doador,2024-02-13T13:30:58.958Z
+Eleitor 52,Joinville,Iririu,2,2,Vereador XYZ;Ana Beatriz,64,Feminino,(48) 92490-8350,,,2025-12-01T20:36:19.236Z
+Eleitor 53,Lages,Centro,3,3,Vereador XYZ;Ana Beatriz;Carlos Eduardo,56,Feminino,(47) 94281-1065,,Reclamante,2024-03-18T17:55:04.918Z
+Eleitor 54,Tubarao,Centro,4,1,Joao Silva;Carlos Eduardo,65,Masculino,(47) 93829-1913,,,2025-08-05T15:39:03.565Z
+Eleitor 55,Sao Jose,Centro,3,1,Ana Beatriz,58,Masculino,,,,2025-07-04T19:05:34.904Z
+Eleitor 56,Joinville,Aventureiro,4,4,Carlos Eduardo;Ana Beatriz,32,Feminino,,,Doador,2023-01-17T07:50:37.730Z
+Eleitor 57,Sao Jose,Centro,2,1,Joao Silva,55,Outro,(48) 99751-9617,,Influenciador,2025-04-02T17:55:49.395Z
+Eleitor 58,Florianopolis,Ingleses,1,1,Maria Paula,48,Feminino,(49) 97804-8078,,,2024-07-07T06:37:28.132Z
+Eleitor 59,Joinville,Centro,4,1,Ana Beatriz;Maria Paula,43,Outro,(48) 99864-8869,,,2026-02-21T11:49:29.386Z
+Eleitor 60,Florianopolis,Ingleses,3,1,Ana Beatriz,73,Masculino,(48) 98223-2680,,,2024-12-07T14:29:09.283Z
+Eleitor 61,Jaragua do Sul,Centro,4,3,Ana Beatriz,30,Feminino,(48) 97145-2789,eleitor.61@email.com,Indeciso,2023-11-13T16:07:02.930Z
+Eleitor 62,Sao Bento do Sul,Centro,1,1,Joao Silva,69,Feminino,(48) 96585-9991,eleitor.62@email.com,Apoiador Forte,2024-07-28T05:56:11.318Z
+Eleitor 63,Florianopolis,Trindade,4,1,Carlos Eduardo,53,Outro,,,,2023-01-04T01:41:54.813Z
+Eleitor 64,Florianopolis,Centro,5,1,Carlos Eduardo,39,Masculino,(48) 92057-5386,,Reclamante,2026-02-23T13:11:16.305Z
+Eleitor 65,Joinville,Centro,4,1,Joao Silva;Maria Paula;Vereador XYZ,63,Outro,(49) 98804-3808,eleitor.65@email.com,,2023-08-01T13:48:13.109Z
+Eleitor 66,Florianopolis,Trindade,3,2,Maria Paula;Ana Beatriz;Joao Silva,21,Outro,(48) 94453-4743,,Lideranca,2024-01-06T01:30:20.921Z
+Eleitor 67,Florianopolis,Coqueiros,1,1,Carlos Eduardo;Maria Paula;Ana Beatriz,56,Feminino,(49) 95386-2991,eleitor.67@email.com,Doador,2023-12-01T08:38:18.151Z
+Eleitor 68,Florianopolis,Agronomica,1,1,Maria Paula,49,Outro,(47) 98066-6885,,Doador,2023-04-01T09:07:59.985Z
+Eleitor 69,Joinville,America,2,2,Joao Silva,47,Masculino,(49) 95370-6102,eleitor.69@email.com,Apoiador Forte,2025-09-03T20:11:40.715Z
+Eleitor 70,Blumenau,Centro,3,1,Joao Silva;Maria Paula,21,Masculino,(49) 92767-3142,,Lideranca,2023-08-14T05:59:42.888Z
+Eleitor 71,Criciuma,Centro,1,3,Joao Silva;Maria Paula,34,Masculino,(48) 98386-4494,,,2023-11-25T12:42:54.552Z
+Eleitor 72,Tubarao,Centro,2,2,Vereador XYZ;Ana Beatriz,48,Masculino,,,,2024-06-20T07:41:07.679Z
+Eleitor 73,Blumenau,Centro,4,1,Carlos Eduardo;Maria Paula;Ana Beatriz,67,Outro,(47) 99684-3838,,Reclamante,2023-02-21T18:09:26.615Z
+Eleitor 74,Florianopolis,Estreito,4,1,Maria Paula,73,Masculino,(49) 96402-4030,eleitor.74@email.com,Lideranca,2025-08-31T14:34:06.286Z
+Eleitor 75,Joinville,Bucarein,1,1,Joao Silva;Ana Beatriz;Maria Paula,21,Masculino,,,,2023-01-26T21:06:05.339Z
+Eleitor 76,Blumenau,Centro,3,1,Carlos Eduardo,36,Masculino,(48) 95259-9916,eleitor.76@email.com,Lideranca,2024-02-20T17:09:18.645Z
+Eleitor 77,Joinville,Bucarein,2,1,Carlos Eduardo;Vereador XYZ;Maria Paula,45,Feminino,(48) 93857-2323,,,2025-11-28T13:00:00.162Z
+Eleitor 78,Joinville,Bucarein,1,2,Joao Silva,23,Masculino,,,Influenciador,2026-01-02T19:57:07.577Z
+Eleitor 79,Florianopolis,Campeche,4,1,Carlos Eduardo;Vereador XYZ;Maria Paula,60,Outro,,,,2023-04-01T18:53:34.007Z
+Eleitor 80,Chapeco,Centro,5,1,Joao Silva,16,Masculino,(47) 94127-8509,,Influenciador,2025-12-11T10:54:10.873Z
+Eleitor 81,Florianopolis,Coqueiros,5,1,Vereador XYZ;Maria Paula,61,Feminino,(47) 93826-9442,,,2024-04-20T13:00:24.075Z
+Eleitor 82,Joinville,Centro,5,2,Vereador XYZ;Joao Silva,16,Outro,,,,2025-01-03T10:15:36.918Z
+Eleitor 83,Jaragua do Sul,Centro,4,2,Ana Beatriz;Maria Paula;Carlos Eduardo,27,Feminino,(48) 95909-6619,,Voluntario,2023-12-31T16:25:57.645Z
+Eleitor 84,Joinville,Centro,3,3,Joao Silva;Ana Beatriz;Maria Paula,23,Outro,(47) 91716-7332,eleitor.84@email.com,,2025-10-12T17:58:32.302Z
+Eleitor 85,Joinville,Aventureiro,2,2,Vereador XYZ;Ana Beatriz,30,Outro,(48) 97000-5980,eleitor.85@email.com,Reclamante,2023-10-20T05:39:56.174Z
+Eleitor 86,Blumenau,Centro,1,1,Vereador XYZ,47,Masculino,,,,2023-05-16T02:56:39.732Z
+Eleitor 87,Blumenau,Centro,5,2,Ana Beatriz;Carlos Eduardo;Vereador XYZ,65,Masculino,(48) 96124-1930,eleitor.87@email.com,Influenciador,2025-08-27T11:12:45.526Z
+Eleitor 88,Blumenau,Centro,1,1,Vereador XYZ;Ana Beatriz,57,Outro,,,Influenciador;Apoiador Forte,2025-06-24T11:37:27.561Z
+Eleitor 89,Blumenau,Centro,2,1,Ana Beatriz;Maria Paula,30,Feminino,(47) 92739-1083,,Doador,2024-02-23T15:41:54.891Z
+Eleitor 90,Joinville,Bucarein,4,3,Vereador XYZ,67,Outro,(49) 92151-1973,eleitor.90@email.com,,2024-12-04T08:53:58.759Z
+Eleitor 91,Joinville,Bucarein,2,1,Ana Beatriz;Vereador XYZ,61,Masculino,(47) 91481-1404,,,2023-11-24T02:04:49.511Z
+Eleitor 92,Joinville,Boa Vista,2,2,Ana Beatriz;Vereador XYZ,55,Feminino,(48) 96243-4268,eleitor.92@email.com,,2023-02-19T20:53:13.100Z
+Eleitor 93,Blumenau,Centro,4,2,Ana Beatriz;Joao Silva;Maria Paula,77,Masculino,(47) 94961-7617,,Voluntario,2025-04-21T10:45:44.832Z
+Eleitor 94,Sao Jose,Centro,2,1,Ana Beatriz,43,Outro,,,,2024-04-14T00:55:29.810Z
+Eleitor 95,Lages,Centro,5,2,Ana Beatriz,45,Feminino,(49) 97185-5349,eleitor.95@email.com,Doador,2025-03-15T11:54:25.393Z
+Eleitor 96,Tubarao,Centro,1,1,Joao Silva,76,Outro,(48) 91306-9448,eleitor.96@email.com,Doador,2024-11-24T07:40:29.570Z
+Eleitor 97,Tubarao,Centro,5,2,Joao Silva;Maria Paula,56,Masculino,(48) 97221-4994,eleitor.97@email.com,Voluntario,2023-04-27T10:42:17.525Z
+Eleitor 98,Florianopolis,Ingleses,4,1,Carlos Eduardo;Ana Beatriz,16,Feminino,(47) 97339-1325,,Voluntario,2025-11-25T15:17:47.325Z
+Eleitor 99,Sao Jose,Centro,1,1,Vereador XYZ,19,Masculino,,,Doador,2024-07-01T14:12:39.846Z
+Eleitor 100,Blumenau,Centro,1,1,Ana Beatriz,34,Masculino,(47) 99494-1344,eleitor.100@email.com,Reclamante,2023-07-01T10:47:45.602Z
+Eleitor 101,Chapeco,Centro,1,1,Carlos Eduardo;Ana Beatriz,48,Outro,(49) 91696-9036,eleitor.101@email.com,,2024-09-21T17:46:17.766Z
+Eleitor 102,Chapeco,Centro,1,1,Ana Beatriz,71,Feminino,(49) 99869-2030,,Indeciso,2024-10-28T19:58:25.468Z
+Eleitor 103,Joinville,Centro,5,4,Carlos Eduardo;Maria Paula,44,Feminino,(49) 94409-1673,,Indeciso,2025-04-23T20:14:59.505Z
+Eleitor 104,Florianopolis,Estreito,5,1,Joao Silva,57,Feminino,(48) 95713-4273,,,2025-12-29T03:15:25.382Z
+Eleitor 105,Palhoca,Centro,5,1,Joao Silva;Vereador XYZ,71,Feminino,,,,2026-01-04T22:36:43.083Z
+Eleitor 106,Jaragua do Sul,Centro,1,3,Joao Silva;Maria Paula;Vereador XYZ,59,Feminino,(49) 91683-7140,,Apoiador Forte,2024-11-30T23:57:09.974Z
+Eleitor 107,Lages,Centro,1,4,Joao Silva;Vereador XYZ;Carlos Eduardo,40,Masculino,(49) 96656-2804,,Reclamante,2024-10-04T11:34:59.373Z
+Eleitor 108,Joinville,Boa Vista,4,3,Joao Silva,74,Outro,(47) 95259-9321,,Doador,2025-05-15T13:57:36.903Z
+Eleitor 109,Sao Jose,Centro,2,1,Vereador XYZ,73,Outro,(47) 95663-6805,eleitor.109@email.com,Lideranca,2025-03-05T13:44:09.118Z
+Eleitor 110,Florianopolis,Campeche,3,1,Carlos Eduardo,54,Feminino,,,,2025-06-03T14:02:30.982Z
+Eleitor 111,Joinville,Costa e Silva,4,1,Ana Beatriz;Carlos Eduardo,55,Masculino,,,Doador;Lideranca,2023-10-15T12:43:36.838Z
+Eleitor 112,Sao Jose,Centro,4,1,Joao Silva,69,Outro,(48) 98784-4479,eleitor.112@email.com,Influenciador,2026-01-15T22:19:22.621Z
+Eleitor 113,Jaragua do Sul,Centro,1,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,48,Feminino,(47) 91847-2527,,Indeciso;Voluntario,2024-07-06T05:52:57.080Z
+Eleitor 114,Sao Bento do Sul,Centro,1,1,Vereador XYZ;Joao Silva,25,Masculino,(48) 94278-9719,,Doador,2025-02-03T09:43:23.199Z
+Eleitor 115,Florianopolis,Centro,3,3,Ana Beatriz,59,Outro,,,,2025-09-01T07:22:30.110Z
+Eleitor 116,Blumenau,Centro,3,1,Joao Silva;Maria Paula;Vereador XYZ,63,Outro,(47) 92211-6654,,Indeciso,2023-03-23T05:14:08.169Z
+Eleitor 117,Florianopolis,Campeche,1,1,Ana Beatriz,63,Masculino,(49) 98679-4628,eleitor.117@email.com,Voluntario,2023-08-20T09:08:30.294Z
+Eleitor 118,Blumenau,Centro,3,1,Ana Beatriz,34,Masculino,,,,2024-02-21T14:21:11.421Z
+Eleitor 119,Blumenau,Centro,3,3,Vereador XYZ;Carlos Eduardo;Maria Paula,27,Masculino,(47) 98546-3270,eleitor.119@email.com,,2024-06-06T08:50:13.505Z
+Eleitor 120,Lages,Centro,3,5,Maria Paula;Carlos Eduardo,53,Outro,(48) 99291-6769,,Influenciador,2025-06-01T19:47:07.202Z
+Eleitor 121,Joinville,Iririu,5,1,Ana Beatriz;Joao Silva,75,Masculino,(47) 96067-4823,,,2025-11-03T17:41:06.406Z
+Eleitor 122,Florianopolis,Centro,1,1,Ana Beatriz;Carlos Eduardo;Maria Paula,27,Outro,,,Influenciador,2023-01-13T18:17:12.698Z
+Eleitor 123,Joinville,Aventureiro,2,1,Vereador XYZ;Ana Beatriz,32,Masculino,(47) 94611-6983,eleitor.123@email.com,Indeciso,2023-04-03T10:33:58.223Z
+Eleitor 124,Florianopolis,Coqueiros,4,1,Joao Silva;Carlos Eduardo;Ana Beatriz,57,Masculino,(47) 98128-2235,eleitor.124@email.com,,2025-11-19T00:23:36.949Z
+Eleitor 125,Florianopolis,Trindade,4,2,Carlos Eduardo;Vereador XYZ,65,Outro,(49) 94409-1209,,Doador,2023-08-13T21:02:30.006Z
+Eleitor 126,Joinville,Boa Vista,3,2,Vereador XYZ,72,Masculino,(49) 97509-2338,eleitor.126@email.com,Lideranca,2023-12-24T15:13:02.616Z
+Eleitor 127,Florianopolis,Agronomica,5,4,Joao Silva;Carlos Eduardo,66,Outro,(48) 95502-7176,,Apoiador Forte,2024-09-14T02:26:24.974Z
+Eleitor 128,Blumenau,Centro,3,4,Joao Silva;Ana Beatriz;Maria Paula,25,Masculino,(48) 95267-7662,eleitor.128@email.com,,2023-12-03T19:21:45.024Z
+Eleitor 129,Joinville,America,5,1,Joao Silva;Maria Paula,62,Outro,(47) 96570-3500,,,2024-07-20T08:58:19.488Z
+Eleitor 130,Balneario Camboriu,Centro,2,2,Joao Silva,71,Masculino,(47) 96724-1905,eleitor.130@email.com,,2025-06-03T15:31:37.254Z
+Eleitor 131,Itajai,Centro,1,1,Maria Paula,74,Masculino,,,Influenciador,2024-02-28T07:00:02.994Z
+Eleitor 132,Chapeco,Centro,1,3,Carlos Eduardo;Maria Paula;Vereador XYZ,57,Outro,,,,2024-03-30T10:12:47.074Z
+Eleitor 133,Sao Bento do Sul,Centro,2,1,Maria Paula;Joao Silva;Carlos Eduardo,26,Feminino,(49) 92297-4333,,Reclamante;Lideranca,2024-01-19T23:58:21.839Z
+Eleitor 134,Joinville,Boa Vista,5,1,Ana Beatriz;Carlos Eduardo,17,Outro,(48) 95146-1746,,Reclamante,2023-05-30T08:59:20.779Z
+Eleitor 135,Florianopolis,Centro,3,2,Ana Beatriz,18,Outro,(49) 93715-6128,,Lideranca,2023-11-20T22:19:10.267Z
+Eleitor 136,Joinville,Aventureiro,4,1,Maria Paula;Vereador XYZ,69,Feminino,(47) 91554-3380,eleitor.136@email.com,,2025-12-11T16:42:05.465Z
+Eleitor 137,Joinville,Centro,3,1,Ana Beatriz;Carlos Eduardo;Vereador XYZ,41,Masculino,,,,2024-04-02T08:24:09.409Z
+Eleitor 138,Florianopolis,Agronomica,2,4,Vereador XYZ;Ana Beatriz,43,Outro,(48) 93964-5856,eleitor.138@email.com,,2023-02-27T15:38:48.988Z
+Eleitor 139,Jaragua do Sul,Centro,5,4,Joao Silva;Maria Paula;Carlos Eduardo,24,Masculino,(48) 92732-9120,eleitor.139@email.com,,2025-05-20T17:37:33.317Z
+Eleitor 140,Brusque,Centro,4,1,Carlos Eduardo;Maria Paula;Ana Beatriz,27,Outro,(48) 93640-5765,eleitor.140@email.com,,2025-12-14T01:46:24.226Z
+Eleitor 141,Blumenau,Centro,5,3,Joao Silva,16,Feminino,(47) 91817-9673,,Reclamante;Doador,2023-06-17T17:03:35.865Z
+Eleitor 142,Blumenau,Centro,5,1,Joao Silva,61,Feminino,(48) 97168-4212,eleitor.142@email.com,Influenciador;Lideranca,2025-07-20T04:08:07.953Z
+Eleitor 143,Joinville,Costa e Silva,2,2,Joao Silva;Ana Beatriz;Maria Paula,20,Masculino,(49) 92256-7330,,,2025-01-26T23:24:07.819Z
+Eleitor 144,Florianopolis,Coqueiros,2,1,Joao Silva;Vereador XYZ;Maria Paula,48,Outro,(48) 93143-7144,eleitor.144@email.com,,2023-05-04T13:23:42.436Z
+Eleitor 145,Sao Jose,Centro,5,3,Ana Beatriz;Carlos Eduardo,79,Masculino,,,Voluntario,2023-09-18T10:56:15.101Z
+Eleitor 146,Criciuma,Centro,2,4,Joao Silva;Maria Paula,24,Outro,(47) 93534-9984,,,2025-05-30T03:19:57.822Z
+Eleitor 147,Joinville,Boa Vista,1,4,Vereador XYZ;Joao Silva,63,Masculino,(48) 98761-5305,,Voluntario;Lideranca,2023-07-13T00:00:13.704Z
+Eleitor 148,Joinville,Centro,1,1,Ana Beatriz;Carlos Eduardo;Maria Paula,32,Masculino,(49) 96765-4295,,Reclamante,2025-08-10T07:55:54.022Z
+Eleitor 149,Florianopolis,Ingleses,3,2,Carlos Eduardo;Maria Paula;Vereador XYZ,51,Masculino,(49) 94614-3661,,Indeciso,2024-08-24T21:47:57.964Z
+Eleitor 150,Blumenau,Centro,2,4,Maria Paula,73,Masculino,,,Apoiador Forte;Influenciador,2024-07-19T23:31:25.372Z
+Eleitor 151,Criciuma,Centro,5,2,Maria Paula;Joao Silva;Carlos Eduardo,46,Masculino,(48) 93498-6132,eleitor.151@email.com,Reclamante,2025-03-01T06:41:26.257Z
+Eleitor 152,Sao Jose,Centro,4,3,Maria Paula;Joao Silva;Vereador XYZ,68,Feminino,(48) 98702-5460,,Voluntario,2023-12-19T06:10:39.009Z
+Eleitor 153,Florianopolis,Campeche,2,1,Ana Beatriz;Joao Silva;Maria Paula,69,Outro,(47) 96562-9013,,,2024-09-26T02:15:23.150Z
+Eleitor 154,Joinville,Aventureiro,5,2,Vereador XYZ;Joao Silva;Carlos Eduardo,27,Feminino,(48) 94653-9183,,,2025-01-06T03:55:29.042Z
+Eleitor 155,Joinville,Costa e Silva,4,3,Ana Beatriz;Maria Paula;Joao Silva,43,Feminino,,,,2025-10-01T19:02:20.007Z
+Eleitor 156,Blumenau,Centro,3,3,Ana Beatriz;Carlos Eduardo,31,Outro,(49) 98689-4188,eleitor.156@email.com,,2023-06-15T20:13:42.400Z
+Eleitor 157,Joinville,Boa Vista,2,4,Maria Paula;Joao Silva;Ana Beatriz,60,Masculino,,,,2024-03-16T19:01:23.151Z
+Eleitor 158,Florianopolis,Ingleses,1,1,Carlos Eduardo;Maria Paula,40,Outro,,,Reclamante;Apoiador Forte,2024-10-19T16:27:01.871Z
+Eleitor 159,Joinville,Boa Vista,4,3,Maria Paula;Ana Beatriz;Joao Silva,28,Feminino,(48) 98398-4485,,Doador,2025-06-10T08:28:31.144Z
+Eleitor 160,Florianopolis,Ingleses,1,4,Joao Silva;Maria Paula;Carlos Eduardo,25,Masculino,(48) 94271-7604,eleitor.160@email.com,Doador,2025-07-24T08:50:30.261Z
+Eleitor 161,Joinville,Costa e Silva,1,1,Maria Paula,63,Masculino,(48) 99251-6792,eleitor.161@email.com,Reclamante;Lideranca,2023-08-04T19:33:20.625Z
+Eleitor 162,Sao Jose,Centro,1,1,Joao Silva;Vereador XYZ;Maria Paula,27,Outro,(49) 96200-9579,,,2023-01-27T18:28:41.001Z
+Eleitor 163,Joinville,Bucarein,1,2,Carlos Eduardo,52,Masculino,,,,2025-05-03T03:11:04.713Z
+Eleitor 164,Joinville,Centro,4,2,Carlos Eduardo,45,Feminino,(47) 99599-6587,,,2026-03-05T22:53:28.698Z
+Eleitor 165,Florianopolis,Centro,4,5,Joao Silva,40,Masculino,(48) 93139-3207,eleitor.165@email.com,Doador,2025-05-19T22:28:17.457Z
+Eleitor 166,Brusque,Centro,4,5,Vereador XYZ;Maria Paula;Carlos Eduardo,20,Feminino,(49) 92066-5461,eleitor.166@email.com,Indeciso,2025-08-10T23:29:53.383Z
+Eleitor 167,Sao Jose,Centro,1,1,Carlos Eduardo;Joao Silva;Maria Paula,26,Outro,,,,2023-05-13T20:02:02.555Z
+Eleitor 168,Florianopolis,Agronomica,5,2,Ana Beatriz;Joao Silva;Maria Paula,34,Outro,(48) 92192-9182,,Voluntario,2024-02-02T04:37:57.810Z
+Eleitor 169,Sao Jose,Centro,5,2,Vereador XYZ;Joao Silva;Maria Paula,66,Outro,(48) 96981-8274,,,2025-02-09T19:04:28.036Z
+Eleitor 170,Joinville,Costa e Silva,1,1,Joao Silva,54,Feminino,(48) 99087-3384,,Indeciso;Apoiador Forte,2025-07-26T14:51:26.984Z
+Eleitor 171,Sao Jose,Centro,2,1,Ana Beatriz;Carlos Eduardo;Vereador XYZ,60,Feminino,,,,2024-05-18T01:31:28.777Z
+Eleitor 172,Blumenau,Centro,5,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,57,Feminino,(47) 99761-9297,eleitor.172@email.com,Voluntario,2024-01-19T06:42:06.958Z
+Eleitor 173,Florianopolis,Estreito,3,4,Ana Beatriz;Carlos Eduardo;Vereador XYZ,64,Masculino,(47) 93713-3329,,Lideranca,2026-02-15T20:10:53.001Z
+Eleitor 174,Joinville,Iririu,5,3,Joao Silva;Maria Paula;Carlos Eduardo,76,Outro,(48) 98281-3304,,,2023-03-28T19:55:09.841Z
+Eleitor 175,Sao Jose,Centro,5,1,Carlos Eduardo,41,Outro,,,Reclamante,2024-11-27T09:52:33.423Z
+Eleitor 176,Sao Jose,Centro,2,1,Vereador XYZ;Joao Silva;Maria Paula,42,Feminino,(47) 95213-7697,eleitor.176@email.com,,2024-04-10T16:21:36.741Z
+Eleitor 177,Joinville,Centro,1,3,Ana Beatriz;Joao Silva;Maria Paula,19,Masculino,,,Voluntario,2023-02-06T06:55:42.963Z
+Eleitor 178,Palhoca,Centro,2,2,Maria Paula;Carlos Eduardo,77,Feminino,(47) 96337-8161,eleitor.178@email.com,Indeciso,2024-12-17T06:51:38.900Z
+Eleitor 179,Blumenau,Centro,1,5,Vereador XYZ,69,Feminino,(49) 91501-1850,eleitor.179@email.com,Reclamante,2026-02-04T21:16:30.533Z
+Eleitor 180,Florianopolis,Agronomica,3,2,Carlos Eduardo;Vereador XYZ;Ana Beatriz,18,Masculino,,,Indeciso,2023-09-04T01:19:17.941Z
+Eleitor 181,Sao Jose,Centro,2,2,Vereador XYZ;Ana Beatriz;Carlos Eduardo,50,Masculino,(48) 95193-2757,,Indeciso,2025-06-21T04:17:20.746Z
+Eleitor 182,Joinville,Boa Vista,2,1,Vereador XYZ;Joao Silva,55,Masculino,,,Influenciador,2026-02-02T23:10:27.956Z
+Eleitor 183,Joinville,Boa Vista,4,3,Joao Silva;Maria Paula,24,Masculino,,,,2023-01-09T05:04:43.036Z
+Eleitor 184,Palhoca,Centro,4,1,Maria Paula;Joao Silva;Carlos Eduardo,44,Feminino,,,Reclamante,2026-02-16T16:07:07.744Z
+Eleitor 185,Palhoca,Centro,4,2,Carlos Eduardo;Vereador XYZ;Joao Silva,77,Outro,(48) 94947-6993,eleitor.185@email.com,Lideranca,2025-02-20T04:04:44.007Z
+Eleitor 186,Joinville,Boa Vista,3,1,Vereador XYZ;Ana Beatriz,74,Feminino,(47) 97636-6476,,,2025-08-24T23:52:42.680Z
+Eleitor 187,Tubarao,Centro,4,2,Carlos Eduardo,34,Outro,,,Reclamante,2025-04-15T09:23:32.860Z
+Eleitor 188,Florianopolis,Estreito,4,2,Joao Silva;Maria Paula,30,Masculino,,,Voluntario,2023-05-09T01:20:21.102Z
+Eleitor 189,Joinville,America,3,2,Vereador XYZ;Ana Beatriz;Joao Silva,56,Masculino,,,Indeciso,2023-09-05T14:47:46.348Z
+Eleitor 190,Joinville,Costa e Silva,3,1,Ana Beatriz,26,Masculino,(48) 93605-8065,,,2024-10-15T09:18:47.076Z
+Eleitor 191,Florianopolis,Coqueiros,3,4,Joao Silva;Maria Paula;Ana Beatriz,47,Masculino,(48) 97843-9759,,Voluntario,2023-03-18T12:13:46.167Z
+Eleitor 192,Joinville,Aventureiro,5,2,Carlos Eduardo,58,Feminino,(47) 96599-3792,eleitor.192@email.com,Voluntario,2025-12-12T18:14:34.383Z
+Eleitor 193,Florianopolis,Centro,4,3,Vereador XYZ,28,Outro,(48) 96909-5677,eleitor.193@email.com,Voluntario,2025-04-10T08:47:01.010Z
+Eleitor 194,Joinville,Centro,2,1,Carlos Eduardo;Joao Silva,53,Outro,(47) 98973-8184,eleitor.194@email.com,,2025-01-29T05:59:20.978Z
+Eleitor 195,Blumenau,Centro,4,1,Joao Silva;Vereador XYZ,79,Masculino,(47) 95597-9404,,Lideranca,2024-04-13T21:32:33.802Z
+Eleitor 196,Joinville,Centro,4,1,Joao Silva;Maria Paula,47,Outro,,,Reclamante,2024-01-26T19:57:35.693Z
+Eleitor 197,Chapeco,Centro,4,1,Vereador XYZ,44,Masculino,(47) 97922-8798,,Lideranca,2023-12-15T11:13:48.277Z
+Eleitor 198,Blumenau,Centro,5,1,Ana Beatriz;Maria Paula;Vereador XYZ,27,Feminino,,,Influenciador,2024-08-26T20:51:07.858Z
+Eleitor 199,Tubarao,Centro,1,1,Joao Silva;Maria Paula,21,Feminino,(48) 97899-8173,,Apoiador Forte,2023-07-21T08:27:38.118Z
+Eleitor 200,Joinville,Centro,5,1,Vereador XYZ;Ana Beatriz;Maria Paula,55,Outro,(49) 93363-6562,,,2023-11-01T12:11:30.500Z
+Eleitor 201,Sao Bento do Sul,Centro,3,1,Vereador XYZ;Ana Beatriz;Maria Paula,37,Feminino,(47) 92648-3209,eleitor.201@email.com,Reclamante,2024-04-29T16:23:29.192Z
+Eleitor 202,Joinville,Costa e Silva,3,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,64,Feminino,,,Indeciso,2024-07-04T00:41:55.698Z
+Eleitor 203,Joinville,Bucarein,1,4,Vereador XYZ;Maria Paula,78,Feminino,(48) 96739-7702,,Apoiador Forte,2025-05-30T16:43:18.945Z
+Eleitor 204,Joinville,America,1,1,Ana Beatriz,30,Outro,(47) 93416-8582,,Lideranca;Voluntario,2024-11-20T15:45:33.177Z
+Eleitor 205,Joinville,Centro,5,1,Vereador XYZ;Ana Beatriz,38,Feminino,(47) 98974-4202,,Reclamante,2025-01-17T02:35:30.628Z
+Eleitor 206,Itajai,Centro,5,1,Joao Silva,78,Outro,(49) 95510-8861,,Reclamante,2024-10-09T13:42:02.619Z
+Eleitor 207,Joinville,Centro,1,3,Vereador XYZ;Ana Beatriz;Carlos Eduardo,76,Feminino,(47) 93726-4256,eleitor.207@email.com,,2024-01-08T17:47:57.875Z
+Eleitor 208,Florianopolis,Agronomica,2,1,Maria Paula;Joao Silva,33,Masculino,(49) 96337-4891,eleitor.208@email.com,Apoiador Forte,2025-01-21T13:41:03.722Z
+Eleitor 209,Palhoca,Centro,3,4,Vereador XYZ,61,Feminino,(49) 93008-8829,eleitor.209@email.com,,2023-11-30T05:03:00.014Z
+Eleitor 210,Blumenau,Centro,3,3,Vereador XYZ;Ana Beatriz;Carlos Eduardo,43,Feminino,(49) 97377-9236,eleitor.210@email.com,Indeciso;Doador,2023-03-12T19:42:26.919Z
+Eleitor 211,Tubarao,Centro,1,1,Carlos Eduardo,41,Feminino,(48) 93470-8580,,Indeciso,2023-01-21T00:20:37.013Z
+Eleitor 212,Joinville,Aventureiro,5,5,Maria Paula;Carlos Eduardo;Vereador XYZ,50,Outro,,,Apoiador Forte,2024-10-28T16:10:45.868Z
+Eleitor 213,Sao Jose,Centro,3,1,Carlos Eduardo;Maria Paula;Joao Silva,16,Outro,(48) 99483-7053,eleitor.213@email.com,,2023-06-12T00:02:19.217Z
+Eleitor 214,Sao Jose,Centro,3,1,Joao Silva;Maria Paula;Carlos Eduardo,72,Masculino,(49) 99639-9823,eleitor.214@email.com,Influenciador,2024-04-12T03:11:10.598Z
+Eleitor 215,Jaragua do Sul,Centro,1,3,Maria Paula;Vereador XYZ;Carlos Eduardo,28,Masculino,(48) 94398-3033,,Doador,2026-02-02T04:07:26.737Z
+Eleitor 216,Joinville,Iririu,4,4,Carlos Eduardo;Ana Beatriz,21,Outro,(47) 91347-9109,,Indeciso,2023-09-26T22:05:00.437Z
+Eleitor 217,Sao Jose,Centro,5,3,Joao Silva,66,Feminino,(48) 94770-9974,,Reclamante,2023-01-27T16:23:03.471Z
+Eleitor 218,Joinville,Bucarein,2,1,Joao Silva;Maria Paula;Carlos Eduardo,53,Feminino,,,,2023-11-06T18:35:22.821Z
+Eleitor 219,Joinville,America,2,3,Vereador XYZ,59,Outro,(47) 95255-2472,eleitor.219@email.com,,2026-02-09T04:57:37.673Z
+Eleitor 220,Florianopolis,Campeche,5,3,Carlos Eduardo,53,Outro,,,,2023-06-04T16:10:23.921Z
+Eleitor 221,Florianopolis,Coqueiros,3,3,Maria Paula,35,Feminino,,,Reclamante,2024-08-31T04:21:28.859Z
+Eleitor 222,Brusque,Centro,4,3,Ana Beatriz;Carlos Eduardo,50,Feminino,(49) 91836-9850,eleitor.222@email.com,Reclamante;Apoiador Forte,2023-03-16T21:55:27.324Z
+Eleitor 223,Jaragua do Sul,Centro,5,2,Ana Beatriz;Maria Paula,51,Feminino,(47) 94913-1874,,Voluntario,2023-04-07T07:19:47.796Z
+Eleitor 224,Sao Jose,Centro,1,1,Carlos Eduardo;Maria Paula,18,Outro,(49) 91465-9451,,,2024-06-28T01:09:22.849Z
+Eleitor 225,Florianopolis,Campeche,5,1,Vereador XYZ;Carlos Eduardo,56,Masculino,(48) 92605-6105,,Indeciso,2023-09-24T02:27:37.678Z
+Eleitor 226,Joinville,America,3,2,Ana Beatriz;Carlos Eduardo;Vereador XYZ,25,Feminino,(48) 97208-4021,eleitor.226@email.com,,2024-02-03T20:12:20.987Z
+Eleitor 227,Joinville,Iririu,2,3,Ana Beatriz;Maria Paula,73,Feminino,(47) 97366-6996,,Indeciso,2025-11-20T23:05:44.538Z
+Eleitor 228,Chapeco,Centro,3,2,Vereador XYZ,60,Masculino,,,,2025-08-24T04:15:00.003Z
+Eleitor 229,Florianopolis,Estreito,2,2,Vereador XYZ;Ana Beatriz,75,Outro,(49) 96267-1637,,Doador,2025-04-04T09:49:23.979Z
+Eleitor 230,Blumenau,Centro,5,1,Ana Beatriz,32,Feminino,(48) 91280-5577,eleitor.230@email.com,Voluntario,2023-11-04T01:58:56.545Z
+Eleitor 231,Joinville,Centro,4,2,Ana Beatriz;Joao Silva;Maria Paula,75,Outro,,,,2024-11-26T12:40:03.056Z
+Eleitor 232,Blumenau,Centro,1,1,Maria Paula;Joao Silva;Carlos Eduardo,18,Feminino,,,,2023-04-08T08:12:58.039Z
+Eleitor 233,Lages,Centro,5,3,Carlos Eduardo;Ana Beatriz;Maria Paula,78,Outro,(48) 95844-1507,eleitor.233@email.com,Apoiador Forte,2024-03-26T12:52:58.629Z
+Eleitor 234,Florianopolis,Trindade,4,2,Joao Silva;Maria Paula,71,Feminino,,,Apoiador Forte,2025-11-10T02:13:39.853Z
+Eleitor 235,Balneario Camboriu,Centro,5,4,Ana Beatriz;Vereador XYZ;Joao Silva,30,Masculino,(48) 92865-6101,eleitor.235@email.com,Influenciador;Apoiador Forte,2023-11-30T00:40:28.667Z
+Eleitor 236,Jaragua do Sul,Centro,4,1,Joao Silva;Ana Beatriz,64,Outro,,,,2026-03-09T16:24:35.725Z
+Eleitor 237,Joinville,America,5,1,Maria Paula;Ana Beatriz;Joao Silva,69,Masculino,(47) 97020-2260,eleitor.237@email.com,Apoiador Forte;Reclamante,2024-03-27T22:44:33.502Z
+Eleitor 238,Sao Jose,Centro,3,1,Maria Paula,30,Outro,(49) 96020-1898,,Indeciso,2023-05-30T13:22:26.270Z
+Eleitor 239,Jaragua do Sul,Centro,3,2,Vereador XYZ;Ana Beatriz;Carlos Eduardo,21,Feminino,(48) 99966-8271,eleitor.239@email.com,,2024-06-23T23:11:29.680Z
+Eleitor 240,Joinville,Costa e Silva,1,3,Ana Beatriz;Joao Silva;Vereador XYZ,74,Outro,(48) 99452-3398,,,2023-05-31T16:55:14.162Z
+Eleitor 241,Jaragua do Sul,Centro,1,2,Vereador XYZ;Joao Silva,41,Outro,(47) 94830-9634,,,2023-05-04T03:51:39.511Z
+Eleitor 242,Sao Jose,Centro,4,1,Joao Silva,40,Feminino,(47) 99982-1387,eleitor.242@email.com,,2024-09-06T10:49:11.833Z
+Eleitor 243,Chapeco,Centro,3,1,Ana Beatriz,40,Masculino,(48) 92330-1317,eleitor.243@email.com,,2025-02-27T10:29:48.876Z
+Eleitor 244,Blumenau,Centro,3,2,Ana Beatriz,35,Masculino,,,,2024-06-23T07:18:55.223Z
+Eleitor 245,Tubarao,Centro,2,1,Ana Beatriz,31,Outro,(49) 92313-2783,eleitor.245@email.com,Lideranca,2025-08-01T05:14:03.310Z
+Eleitor 246,Sao Jose,Centro,5,3,Maria Paula;Joao Silva,53,Outro,,,Voluntario,2024-09-22T17:26:04.364Z
+Eleitor 247,Florianopolis,Centro,5,3,Maria Paula,77,Feminino,(47) 95865-8939,,Influenciador;Voluntario,2023-04-25T03:00:41.871Z
+Eleitor 248,Criciuma,Centro,5,1,Ana Beatriz,18,Outro,(48) 92556-9821,eleitor.248@email.com,Reclamante,2023-07-06T08:38:09.591Z
+Eleitor 249,Joinville,Iririu,1,1,Joao Silva;Maria Paula,18,Feminino,(49) 95471-3965,eleitor.249@email.com,Influenciador;Indeciso,2023-02-12T10:19:41.272Z
+Eleitor 250,Florianopolis,Estreito,5,2,Joao Silva,71,Feminino,(49) 92032-8382,eleitor.250@email.com,,2023-05-28T08:33:43.305Z
+Eleitor 251,Joinville,Boa Vista,4,2,Ana Beatriz,55,Masculino,(49) 92009-4222,eleitor.251@email.com,,2024-03-12T21:20:31.499Z
+Eleitor 252,Florianopolis,Agronomica,5,1,Ana Beatriz;Joao Silva,35,Feminino,(48) 93714-9815,,,2025-01-15T16:16:12.744Z
+Eleitor 253,Florianopolis,Estreito,3,1,Ana Beatriz;Vereador XYZ;Joao Silva,56,Outro,(48) 91330-5122,eleitor.253@email.com,Indeciso,2024-12-28T23:14:36.596Z
+Eleitor 254,Blumenau,Centro,5,4,Joao Silva;Maria Paula;Vereador XYZ,74,Outro,(48) 94258-3679,eleitor.254@email.com,,2023-04-11T23:40:46.535Z
+Eleitor 255,Jaragua do Sul,Centro,4,2,Joao Silva,72,Outro,(47) 96859-2407,,,2023-08-21T06:57:36.856Z
+Eleitor 256,Criciuma,Centro,2,1,Vereador XYZ;Ana Beatriz,66,Feminino,(49) 97385-7213,eleitor.256@email.com,,2026-01-09T09:28:50.497Z
+Eleitor 257,Joinville,Boa Vista,5,2,Joao Silva;Maria Paula;Carlos Eduardo,77,Outro,(49) 91238-9833,,Reclamante,2023-04-12T04:59:13.515Z
+Eleitor 258,Joinville,Boa Vista,4,1,Joao Silva;Maria Paula,57,Masculino,(49) 99917-6316,eleitor.258@email.com,Lideranca,2023-04-19T15:13:24.424Z
+Eleitor 259,Joinville,America,5,2,Joao Silva;Carlos Eduardo,24,Masculino,(48) 91362-5250,,,2024-01-29T06:47:45.262Z
+Eleitor 260,Florianopolis,Campeche,4,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,23,Masculino,(48) 96584-6652,eleitor.260@email.com,,2023-12-17T01:20:46.575Z
+Eleitor 261,Itajai,Centro,1,2,Ana Beatriz,64,Feminino,(48) 96507-6905,eleitor.261@email.com,Reclamante,2024-06-07T18:08:10.615Z
+Eleitor 262,Joinville,America,1,2,Carlos Eduardo,47,Masculino,(48) 98192-3128,,Apoiador Forte,2024-11-30T20:12:55.573Z
+Eleitor 263,Blumenau,Centro,2,3,Maria Paula,41,Outro,(49) 94839-3978,eleitor.263@email.com,,2024-11-10T06:54:56.295Z
+Eleitor 264,Sao Jose,Centro,1,1,Carlos Eduardo,23,Outro,(48) 91321-6978,eleitor.264@email.com,Voluntario,2025-10-20T00:06:46.298Z
+Eleitor 265,Itajai,Centro,5,2,Ana Beatriz,28,Outro,(47) 96513-4062,,Indeciso,2023-01-05T15:51:54.911Z
+Eleitor 266,Palhoca,Centro,3,1,Vereador XYZ;Joao Silva,70,Outro,(48) 98250-8588,eleitor.266@email.com,Reclamante;Voluntario,2024-02-13T06:51:25.814Z
+Eleitor 267,Joinville,Iririu,5,3,Joao Silva,42,Outro,(49) 91992-5702,eleitor.267@email.com,Voluntario,2023-08-01T00:47:59.517Z
+Eleitor 268,Brusque,Centro,3,3,Joao Silva;Maria Paula;Carlos Eduardo,37,Outro,(48) 97901-2878,eleitor.268@email.com,Apoiador Forte,2023-04-27T20:01:00.115Z
+Eleitor 269,Sao Jose,Centro,1,3,Joao Silva;Maria Paula,71,Masculino,(47) 91314-4624,,Apoiador Forte,2024-11-13T11:00:32.758Z
+Eleitor 270,Florianopolis,Centro,1,1,Maria Paula,42,Outro,,,Doador,2024-05-26T13:40:17.909Z
+Eleitor 271,Joinville,Bucarein,4,4,Vereador XYZ;Joao Silva;Ana Beatriz,52,Masculino,,,Apoiador Forte,2023-01-21T22:26:59.888Z
+Eleitor 272,Chapeco,Centro,3,3,Maria Paula;Carlos Eduardo;Ana Beatriz,63,Feminino,,,Reclamante,2025-11-24T23:42:37.348Z
+Eleitor 273,Balneario Camboriu,Centro,3,1,Ana Beatriz,39,Feminino,(47) 92540-1122,eleitor.273@email.com,,2024-06-13T00:32:35.596Z
+Eleitor 274,Balneario Camboriu,Centro,4,1,Joao Silva,69,Outro,(47) 91259-8392,,Voluntario,2023-12-12T00:18:23.102Z
+Eleitor 275,Joinville,Bucarein,3,5,Vereador XYZ;Ana Beatriz;Joao Silva,36,Outro,(48) 92234-7559,eleitor.275@email.com,Apoiador Forte,2026-02-28T23:22:21.531Z
+Eleitor 276,Palhoca,Centro,2,3,Joao Silva,52,Outro,,,Voluntario,2023-07-11T08:58:25.130Z
+Eleitor 277,Blumenau,Centro,1,3,Joao Silva;Maria Paula,23,Masculino,(47) 91106-1014,eleitor.277@email.com,Lideranca,2024-11-15T16:53:11.853Z
+Eleitor 278,Joinville,America,5,4,Ana Beatriz,21,Outro,(48) 98191-2411,,,2025-08-22T09:15:35.706Z
+Eleitor 279,Chapeco,Centro,2,3,Joao Silva,18,Masculino,(49) 96880-6409,eleitor.279@email.com,,2025-12-11T16:49:18.405Z
+Eleitor 280,Palhoca,Centro,1,2,Vereador XYZ;Ana Beatriz;Maria Paula,21,Feminino,(48) 91952-5574,,,2025-12-01T03:10:49.611Z
+Eleitor 281,Florianopolis,Coqueiros,4,1,Maria Paula;Ana Beatriz,68,Masculino,(47) 93505-3541,,Influenciador,2025-10-31T21:12:12.409Z
+Eleitor 282,Itajai,Centro,1,1,Joao Silva,16,Feminino,(48) 99970-6772,eleitor.282@email.com,,2025-03-16T21:47:02.283Z
+Eleitor 283,Joinville,Aventureiro,1,1,Joao Silva;Maria Paula;Carlos Eduardo,75,Feminino,(49) 91061-4113,eleitor.283@email.com,Doador,2023-09-22T21:05:16.359Z
+Eleitor 284,Florianopolis,Ingleses,3,1,Ana Beatriz;Carlos Eduardo,67,Feminino,(48) 93113-1997,eleitor.284@email.com,Apoiador Forte,2023-07-09T08:34:47.450Z
+Eleitor 285,Lages,Centro,1,2,Maria Paula,68,Outro,,,Indeciso,2024-10-02T02:30:02.320Z
+Eleitor 286,Itajai,Centro,5,2,Joao Silva,25,Feminino,(47) 96809-8584,eleitor.286@email.com,Apoiador Forte,2024-04-26T07:50:54.192Z
+Eleitor 287,Sao Jose,Centro,5,1,Ana Beatriz;Carlos Eduardo,75,Outro,,,,2023-11-21T10:57:02.169Z
+Eleitor 288,Joinville,Bucarein,5,2,Carlos Eduardo;Ana Beatriz,28,Masculino,(47) 97471-3389,eleitor.288@email.com,Apoiador Forte,2025-10-06T06:54:55.622Z
+Eleitor 289,Florianopolis,Coqueiros,3,3,Joao Silva;Maria Paula;Carlos Eduardo,38,Outro,(48) 93329-6681,eleitor.289@email.com,Reclamante,2025-12-15T03:01:09.976Z
+Eleitor 290,Lages,Centro,3,3,Maria Paula;Joao Silva;Ana Beatriz,37,Outro,(48) 91782-8281,,Reclamante,2024-09-03T05:52:36.496Z
+Eleitor 291,Chapeco,Centro,3,1,Carlos Eduardo;Ana Beatriz,35,Masculino,(47) 94396-9613,eleitor.291@email.com,Influenciador,2024-05-04T06:43:30.374Z
+Eleitor 292,Florianopolis,Ingleses,5,3,Joao Silva,19,Masculino,,,Influenciador,2024-01-10T18:45:09.457Z
+Eleitor 293,Joinville,Centro,2,1,Joao Silva,25,Feminino,,,,2023-03-30T05:24:29.400Z
+Eleitor 294,Blumenau,Centro,5,4,Joao Silva;Maria Paula;Vereador XYZ,52,Feminino,(48) 95701-9685,,Influenciador,2025-04-03T09:49:37.935Z
+Eleitor 295,Florianopolis,Ingleses,1,1,Maria Paula,59,Outro,,,Voluntario,2023-05-05T08:28:50.727Z
+Eleitor 296,Balneario Camboriu,Centro,1,2,Joao Silva,74,Feminino,,,Influenciador,2025-10-23T15:23:51.482Z
+Eleitor 297,Florianopolis,Estreito,2,2,Ana Beatriz;Carlos Eduardo;Vereador XYZ,33,Outro,,,Influenciador,2023-08-17T15:39:10.719Z
+Eleitor 298,Sao Jose,Centro,2,1,Carlos Eduardo;Maria Paula;Vereador XYZ,76,Outro,(48) 96163-5193,eleitor.298@email.com,,2023-06-09T18:07:14.002Z
+Eleitor 299,Florianopolis,Coqueiros,4,3,Vereador XYZ,63,Masculino,(47) 98778-7959,,Indeciso,2025-01-16T23:53:49.265Z
+Eleitor 300,Sao Bento do Sul,Centro,5,1,Ana Beatriz,57,Feminino,(48) 94187-6446,eleitor.300@email.com,,2025-08-04T21:35:22.212Z
+Eleitor 301,Sao Jose,Centro,2,3,Joao Silva;Maria Paula,53,Feminino,(48) 97667-5643,eleitor.301@email.com,Lideranca,2025-07-13T20:47:20.689Z
+Eleitor 302,Blumenau,Centro,5,3,Vereador XYZ;Joao Silva,39,Masculino,,,Influenciador;Indeciso,2024-11-26T01:25:17.555Z
+Eleitor 303,Balneario Camboriu,Centro,2,4,Joao Silva;Maria Paula,46,Feminino,(49) 93274-2530,,,2024-11-04T11:27:11.408Z
+Eleitor 304,Blumenau,Centro,3,1,Carlos Eduardo,53,Outro,(48) 97970-5549,eleitor.304@email.com,,2024-07-13T03:45:21.896Z
+Eleitor 305,Sao Bento do Sul,Centro,3,3,Joao Silva,78,Feminino,(48) 99760-8428,,Indeciso,2024-06-15T07:34:47.812Z
+Eleitor 306,Chapeco,Centro,1,4,Maria Paula;Carlos Eduardo;Ana Beatriz,57,Feminino,(48) 93822-3146,eleitor.306@email.com,Indeciso,2023-01-29T19:42:09.887Z
+Eleitor 307,Sao Jose,Centro,5,4,Ana Beatriz;Carlos Eduardo,69,Feminino,,,,2025-06-14T07:42:17.611Z
+Eleitor 308,Blumenau,Centro,5,3,Ana Beatriz;Joao Silva;Maria Paula,35,Outro,(49) 98134-1220,eleitor.308@email.com,Lideranca,2023-05-10T20:15:38.513Z
+Eleitor 309,Sao Jose,Centro,5,1,Ana Beatriz;Carlos Eduardo;Maria Paula,55,Masculino,,,Voluntario;Apoiador Forte,2025-10-01T11:52:03.715Z
+Eleitor 310,Sao Bento do Sul,Centro,1,1,Ana Beatriz;Carlos Eduardo;Maria Paula,22,Outro,(49) 98662-4054,eleitor.310@email.com,,2023-09-08T11:23:32.913Z
+Eleitor 311,Sao Jose,Centro,2,2,Maria Paula;Ana Beatriz;Joao Silva,44,Feminino,,,,2024-01-20T23:42:40.646Z
+Eleitor 312,Sao Jose,Centro,3,1,Ana Beatriz;Joao Silva;Maria Paula,63,Masculino,,,,2025-06-11T20:24:50.230Z
+Eleitor 313,Itajai,Centro,4,1,Vereador XYZ,71,Feminino,(49) 95398-9471,,Influenciador,2023-03-15T05:49:03.831Z
+Eleitor 314,Florianopolis,Trindade,2,2,Vereador XYZ,72,Masculino,(49) 95305-4102,eleitor.314@email.com,Reclamante,2025-11-05T20:22:43.747Z
+Eleitor 315,Balneario Camboriu,Centro,2,1,Joao Silva,66,Masculino,(47) 99833-1733,eleitor.315@email.com,Lideranca,2023-05-23T06:41:42.918Z
+Eleitor 316,Joinville,Costa e Silva,5,2,Joao Silva;Maria Paula,51,Outro,(48) 94937-9898,eleitor.316@email.com,,2024-04-29T14:42:43.986Z
+Eleitor 317,Joinville,Centro,5,1,Vereador XYZ;Carlos Eduardo;Maria Paula,63,Feminino,(47) 98253-7074,,Lideranca,2024-05-02T12:46:20.872Z
+Eleitor 318,Itajai,Centro,5,1,Maria Paula,71,Outro,,,Doador,2025-07-09T14:20:32.436Z
+Eleitor 319,Joinville,Costa e Silva,2,2,Joao Silva,19,Outro,(49) 91548-6112,,Voluntario,2023-06-13T10:18:30.008Z
+Eleitor 320,Florianopolis,Trindade,3,3,Joao Silva;Maria Paula,22,Outro,(48) 98077-8551,,,2025-09-24T06:12:11.734Z
+Eleitor 321,Joinville,Aventureiro,1,3,Joao Silva;Maria Paula,19,Feminino,,,Voluntario,2023-09-05T14:52:45.684Z
+Eleitor 322,Joinville,Aventureiro,1,2,Carlos Eduardo;Maria Paula;Vereador XYZ,22,Outro,(47) 92701-6745,,,2025-12-05T20:47:30.109Z
+Eleitor 323,Florianopolis,Trindade,4,1,Ana Beatriz,28,Masculino,,,Influenciador;Lideranca,2025-12-07T12:22:14.227Z
+Eleitor 324,Palhoca,Centro,1,1,Joao Silva,16,Masculino,(49) 92520-2453,,Indeciso;Lideranca,2023-03-03T18:38:43.776Z
+Eleitor 325,Blumenau,Centro,2,1,Ana Beatriz,34,Masculino,(48) 91558-6460,,Apoiador Forte,2025-08-28T03:06:22.280Z
+Eleitor 326,Florianopolis,Centro,1,2,Vereador XYZ;Joao Silva,71,Masculino,(48) 99858-3704,,,2023-03-05T08:49:52.114Z
+Eleitor 327,Joinville,America,3,1,Ana Beatriz;Carlos Eduardo,67,Outro,(49) 91688-1187,,,2024-02-01T17:42:29.460Z
+Eleitor 328,Joinville,Bucarein,4,1,Ana Beatriz;Carlos Eduardo,30,Feminino,(49) 94453-5875,,Apoiador Forte,2025-05-16T08:40:54.891Z
+Eleitor 329,Sao Jose,Centro,3,2,Ana Beatriz,18,Outro,(47) 93993-4922,eleitor.329@email.com,Apoiador Forte,2025-07-23T05:35:54.233Z
+Eleitor 330,Palhoca,Centro,4,1,Vereador XYZ;Maria Paula;Carlos Eduardo,41,Outro,,,,2024-12-24T21:52:28.505Z
+Eleitor 331,Blumenau,Centro,2,1,Carlos Eduardo;Maria Paula;Joao Silva,32,Feminino,(49) 91893-9493,,,2024-06-04T12:31:55.531Z
+Eleitor 332,Jaragua do Sul,Centro,1,1,Vereador XYZ;Joao Silva;Maria Paula,76,Masculino,,,,2024-07-22T04:17:12.578Z
+Eleitor 333,Brusque,Centro,3,1,Carlos Eduardo;Joao Silva,64,Masculino,(48) 94284-5495,,,2024-11-05T04:44:15.345Z
+Eleitor 334,Florianopolis,Centro,1,1,Joao Silva;Ana Beatriz,31,Feminino,(47) 99933-1336,,Doador,2024-04-14T16:19:40.180Z
+Eleitor 335,Florianopolis,Estreito,3,1,Joao Silva;Maria Paula;Vereador XYZ,78,Feminino,(49) 94464-6854,,,2025-06-03T08:39:55.348Z
+Eleitor 336,Florianopolis,Trindade,4,2,Vereador XYZ,35,Masculino,(48) 98995-3849,,Influenciador,2024-01-27T08:25:06.364Z
+Eleitor 337,Sao Jose,Centro,2,2,Carlos Eduardo;Joao Silva,69,Masculino,,,Doador,2025-04-30T11:04:25.922Z
+Eleitor 338,Tubarao,Centro,3,3,Vereador XYZ;Ana Beatriz;Carlos Eduardo,23,Feminino,(49) 95764-1433,,Influenciador,2024-03-06T15:46:37.573Z
+Eleitor 339,Chapeco,Centro,3,2,Maria Paula;Joao Silva,27,Masculino,(47) 97515-2696,eleitor.339@email.com,,2025-10-25T00:50:44.748Z
+Eleitor 340,Brusque,Centro,3,2,Vereador XYZ,38,Feminino,(49) 96018-9456,eleitor.340@email.com,Lideranca,2025-08-03T18:18:06.502Z
+Eleitor 341,Joinville,Boa Vista,2,1,Carlos Eduardo,29,Masculino,(47) 97261-9030,,Doador,2026-02-06T20:29:17.773Z
+Eleitor 342,Sao Bento do Sul,Centro,4,2,Vereador XYZ;Carlos Eduardo;Maria Paula,72,Outro,(47) 96830-7559,eleitor.342@email.com,Lideranca,2024-03-23T22:17:14.140Z
+Eleitor 343,Joinville,Costa e Silva,3,4,Joao Silva;Vereador XYZ,76,Masculino,(48) 98161-2469,eleitor.343@email.com,,2025-10-21T23:20:38.713Z
+Eleitor 344,Blumenau,Centro,5,4,Joao Silva,28,Outro,(48) 95625-7054,,Indeciso,2025-12-26T10:44:07.375Z
+Eleitor 345,Florianopolis,Trindade,2,1,Maria Paula,77,Outro,,,Influenciador,2023-10-18T04:42:50.595Z
+Eleitor 346,Joinville,America,5,4,Joao Silva;Maria Paula,68,Outro,(47) 99993-3520,eleitor.346@email.com,,2025-01-03T08:45:48.678Z
+Eleitor 347,Florianopolis,Centro,2,1,Ana Beatriz;Joao Silva;Maria Paula,44,Masculino,,,Reclamante,2024-06-12T05:02:59.537Z
+Eleitor 348,Florianopolis,Ingleses,3,1,Ana Beatriz,39,Feminino,(47) 96283-5352,eleitor.348@email.com,Doador;Indeciso,2023-11-10T20:23:11.483Z
+Eleitor 349,Florianopolis,Centro,1,3,Ana Beatriz;Vereador XYZ,63,Outro,(47) 95893-2510,,Lideranca,2023-12-10T14:46:16.105Z
+Eleitor 350,Joinville,Boa Vista,2,2,Vereador XYZ;Carlos Eduardo,33,Outro,,,Voluntario,2023-02-10T04:40:51.654Z
+Eleitor 351,Joinville,Centro,4,2,Joao Silva;Maria Paula,26,Outro,(48) 98267-9992,eleitor.351@email.com,,2025-10-13T13:34:04.580Z
+Eleitor 352,Blumenau,Centro,4,3,Joao Silva;Ana Beatriz;Vereador XYZ,39,Outro,,,Indeciso,2024-01-17T18:40:41.692Z
+Eleitor 353,Lages,Centro,3,3,Maria Paula;Vereador XYZ,23,Feminino,(48) 95207-4953,,Reclamante;Apoiador Forte,2024-07-10T22:19:09.760Z
+Eleitor 354,Florianopolis,Ingleses,1,1,Joao Silva;Maria Paula;Carlos Eduardo,64,Outro,(48) 91830-2924,,Indeciso;Reclamante,2023-08-19T16:37:30.313Z
+Eleitor 355,Criciuma,Centro,1,2,Joao Silva,44,Feminino,,,,2024-01-22T06:05:54.699Z
+Eleitor 356,Criciuma,Centro,1,3,Joao Silva;Maria Paula,29,Masculino,(49) 99563-2713,eleitor.356@email.com,Apoiador Forte,2024-03-03T05:00:16.533Z
+Eleitor 357,Sao Jose,Centro,5,1,Maria Paula,23,Outro,,,,2023-03-29T22:11:59.197Z
+Eleitor 358,Florianopolis,Agronomica,2,1,Joao Silva,31,Feminino,(48) 98666-5111,eleitor.358@email.com,Apoiador Forte,2024-08-05T04:25:25.837Z
+Eleitor 359,Jaragua do Sul,Centro,2,3,Joao Silva,36,Masculino,,,Indeciso;Voluntario,2024-07-01T23:22:34.804Z
+Eleitor 360,Joinville,Centro,2,1,Carlos Eduardo;Maria Paula;Vereador XYZ,44,Masculino,(47) 94743-9754,,,2023-01-23T21:50:18.481Z
+Eleitor 361,Brusque,Centro,1,1,Ana Beatriz;Carlos Eduardo;Vereador XYZ,41,Outro,(47) 91619-8717,,,2025-04-23T00:51:22.249Z
+Eleitor 362,Florianopolis,Campeche,3,4,Carlos Eduardo,60,Masculino,,,Voluntario,2025-12-27T08:44:40.868Z
+Eleitor 363,Joinville,Aventureiro,1,1,Ana Beatriz;Vereador XYZ,75,Outro,(47) 99448-1856,eleitor.363@email.com,Voluntario,2024-10-08T19:32:33.949Z
+Eleitor 364,Joinville,Costa e Silva,5,1,Carlos Eduardo;Maria Paula,31,Feminino,,,Influenciador,2023-11-14T03:01:02.431Z
+Eleitor 365,Florianopolis,Centro,1,2,Ana Beatriz,40,Outro,(47) 92289-9870,eleitor.365@email.com,Reclamante,2023-05-16T21:51:38.028Z
+Eleitor 366,Florianopolis,Trindade,1,1,Ana Beatriz;Carlos Eduardo,52,Feminino,(47) 99867-1581,,Influenciador,2024-03-06T22:20:21.366Z
+Eleitor 367,Joinville,Boa Vista,1,3,Joao Silva;Maria Paula,45,Feminino,(47) 97515-8499,,Doador;Indeciso,2025-06-22T23:33:56.015Z
+Eleitor 368,Blumenau,Centro,2,5,Maria Paula;Joao Silva,37,Masculino,,,Influenciador,2024-02-17T23:20:10.764Z
+Eleitor 369,Tubarao,Centro,5,1,Ana Beatriz,38,Masculino,(48) 92546-5148,eleitor.369@email.com,Reclamante,2025-02-07T01:29:44.227Z
+Eleitor 370,Joinville,America,5,4,Carlos Eduardo;Ana Beatriz;Maria Paula,40,Feminino,(47) 93582-1434,eleitor.370@email.com,Influenciador,2023-11-22T04:26:53.621Z
+Eleitor 371,Joinville,Boa Vista,2,2,Joao Silva;Maria Paula;Ana Beatriz,55,Masculino,(48) 95236-3042,eleitor.371@email.com,,2025-10-16T23:43:55.062Z
+Eleitor 372,Florianopolis,Ingleses,1,1,Ana Beatriz;Joao Silva;Maria Paula,44,Feminino,(48) 91123-4398,eleitor.372@email.com,Doador,2026-02-22T09:36:20.459Z
+Eleitor 373,Joinville,Aventureiro,2,2,Joao Silva,69,Outro,(48) 95460-1302,,,2023-07-06T03:12:46.273Z
+Eleitor 374,Florianopolis,Ingleses,2,3,Vereador XYZ;Carlos Eduardo;Ana Beatriz,23,Feminino,,,,2023-08-11T12:07:11.637Z
+Eleitor 375,Sao Jose,Centro,5,2,Joao Silva;Maria Paula;Ana Beatriz,39,Feminino,(47) 94830-1434,,Voluntario,2026-03-15T12:41:24.001Z
+Eleitor 376,Joinville,Centro,2,1,Ana Beatriz,48,Outro,(47) 99882-9218,,Voluntario,2024-10-18T11:58:33.703Z
+Eleitor 377,Joinville,Bucarein,1,1,Ana Beatriz,41,Masculino,,,Influenciador;Reclamante,2024-01-21T16:59:40.893Z
+Eleitor 378,Florianopolis,Centro,2,5,Maria Paula,27,Feminino,(47) 97080-5276,,,2025-07-15T18:53:51.196Z
+Eleitor 379,Blumenau,Centro,2,1,Joao Silva;Ana Beatriz;Vereador XYZ,62,Outro,(48) 91983-2048,eleitor.379@email.com,Indeciso,2025-06-26T04:39:06.818Z
+Eleitor 380,Florianopolis,Ingleses,1,1,Carlos Eduardo;Ana Beatriz,66,Feminino,,,,2023-01-16T08:32:43.554Z
+Eleitor 381,Joinville,Iririu,3,2,Carlos Eduardo,76,Feminino,,,Voluntario,2025-06-06T12:25:33.611Z
+Eleitor 382,Chapeco,Centro,2,3,Maria Paula;Carlos Eduardo,60,Feminino,(47) 97912-6978,eleitor.382@email.com,Voluntario,2024-09-30T23:23:54.674Z
+Eleitor 383,Florianopolis,Campeche,4,5,Joao Silva;Ana Beatriz,29,Feminino,(48) 96851-6932,eleitor.383@email.com,,2026-01-18T13:01:53.432Z
+Eleitor 384,Joinville,Iririu,4,5,Vereador XYZ;Joao Silva;Ana Beatriz,48,Masculino,,,,2024-11-04T00:35:05.719Z
+Eleitor 385,Jaragua do Sul,Centro,1,4,Ana Beatriz;Maria Paula;Carlos Eduardo,21,Feminino,(48) 98127-9464,,,2023-09-15T20:40:57.048Z
+Eleitor 386,Florianopolis,Centro,1,1,Joao Silva;Maria Paula,35,Masculino,(47) 97813-5879,,Influenciador;Indeciso,2025-06-29T21:18:55.187Z
+Eleitor 387,Blumenau,Centro,3,1,Carlos Eduardo,61,Feminino,(49) 91512-8578,,Lideranca;Reclamante,2024-10-06T13:29:38.142Z
+Eleitor 388,Blumenau,Centro,1,2,Maria Paula;Joao Silva;Vereador XYZ,61,Feminino,(48) 95618-3684,eleitor.388@email.com,Reclamante,2025-11-19T17:48:36.547Z
+Eleitor 389,Joinville,America,2,2,Joao Silva;Ana Beatriz;Carlos Eduardo,54,Outro,(47) 97586-3053,,,2025-09-25T00:44:05.108Z
+Eleitor 390,Joinville,America,2,2,Vereador XYZ;Joao Silva;Maria Paula,68,Masculino,(48) 93124-5928,,Lideranca,2024-02-09T07:52:11.509Z
+Eleitor 391,Blumenau,Centro,5,1,Ana Beatriz;Carlos Eduardo;Maria Paula,28,Masculino,,,Voluntario,2024-01-25T05:44:45.118Z
+Eleitor 392,Criciuma,Centro,1,1,Vereador XYZ;Joao Silva,36,Masculino,(47) 94928-5323,eleitor.392@email.com,Lideranca,2025-10-31T12:35:22.337Z
+Eleitor 393,Joinville,America,1,1,Joao Silva;Maria Paula;Carlos Eduardo,25,Feminino,(49) 92177-5552,,,2025-01-09T23:46:13.628Z
+Eleitor 394,Jaragua do Sul,Centro,2,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,67,Feminino,,,,2023-07-28T22:24:23.655Z
+Eleitor 395,Joinville,Centro,4,1,Ana Beatriz;Joao Silva;Carlos Eduardo,26,Outro,(48) 95222-6384,,Indeciso;Influenciador,2023-01-08T20:45:19.581Z
+Eleitor 396,Blumenau,Centro,4,1,Ana Beatriz,46,Feminino,,,Reclamante;Lideranca,2024-11-16T19:53:42.267Z
+Eleitor 397,Brusque,Centro,2,4,Ana Beatriz;Joao Silva;Maria Paula,22,Feminino,(48) 99320-8976,,,2023-06-29T07:19:12.492Z
+Eleitor 398,Criciuma,Centro,3,2,Carlos Eduardo;Maria Paula,52,Masculino,(48) 97053-8668,,Indeciso,2023-06-27T18:02:25.713Z
+Eleitor 399,Joinville,Iririu,4,1,Carlos Eduardo;Vereador XYZ,64,Masculino,,,Doador;Indeciso,2025-07-05T23:42:34.974Z
+Eleitor 400,Florianopolis,Campeche,4,1,Joao Silva,62,Masculino,(49) 98916-2457,,Lideranca;Reclamante,2025-11-03T20:16:15.364Z
+Eleitor 401,Joinville,America,3,2,Carlos Eduardo;Maria Paula;Joao Silva,62,Outro,,,,2024-07-03T08:10:58.898Z
+Eleitor 402,Joinville,Centro,5,3,Maria Paula,24,Feminino,(47) 99804-1073,,,2023-12-21T23:30:02.565Z
+Eleitor 403,Sao Bento do Sul,Centro,3,4,Vereador XYZ;Ana Beatriz;Maria Paula,74,Outro,,,Apoiador Forte,2024-02-06T19:44:31.274Z
+Eleitor 404,Blumenau,Centro,4,1,Joao Silva,39,Feminino,,,,2023-08-09T14:34:29.484Z
+Eleitor 405,Jaragua do Sul,Centro,3,4,Joao Silva,23,Outro,(48) 94903-2086,,Influenciador,2023-06-13T06:38:09.705Z
+Eleitor 406,Blumenau,Centro,3,1,Ana Beatriz;Carlos Eduardo;Maria Paula,78,Feminino,,,,2023-10-30T19:19:36.259Z
+Eleitor 407,Balneario Camboriu,Centro,5,1,Joao Silva;Maria Paula,22,Outro,(49) 93666-6328,eleitor.407@email.com,Apoiador Forte,2023-02-24T06:39:21.462Z
+Eleitor 408,Jaragua do Sul,Centro,1,4,Vereador XYZ,42,Masculino,,,,2025-02-14T08:21:04.273Z
+Eleitor 409,Joinville,America,2,1,Ana Beatriz;Carlos Eduardo;Vereador XYZ,29,Outro,(48) 93408-8719,eleitor.409@email.com,,2026-01-07T17:34:03.185Z
+Eleitor 410,Sao Bento do Sul,Centro,3,1,Vereador XYZ,36,Feminino,(48) 96199-2508,eleitor.410@email.com,,2024-03-03T16:09:27.470Z
+Eleitor 411,Itajai,Centro,1,2,Vereador XYZ;Ana Beatriz,45,Feminino,(49) 98728-3573,eleitor.411@email.com,Influenciador,2024-09-13T08:36:18.000Z
+Eleitor 412,Florianopolis,Centro,5,1,Carlos Eduardo;Ana Beatriz,25,Masculino,(47) 99977-4225,,Reclamante;Apoiador Forte,2024-07-19T10:48:56.052Z
+Eleitor 413,Blumenau,Centro,3,1,Carlos Eduardo,34,Masculino,(47) 97093-7075,eleitor.413@email.com,Influenciador,2026-01-29T16:08:48.545Z
+Eleitor 414,Joinville,Aventureiro,2,2,Joao Silva;Maria Paula;Carlos Eduardo,52,Outro,(49) 93688-1797,,Indeciso,2024-09-10T01:17:48.671Z
+Eleitor 415,Tubarao,Centro,1,1,Carlos Eduardo,75,Masculino,(49) 94602-8603,eleitor.415@email.com,Lideranca;Reclamante,2025-11-20T17:29:50.630Z
+Eleitor 416,Lages,Centro,3,1,Vereador XYZ,19,Masculino,(49) 95072-5033,,Lideranca,2023-10-24T03:12:13.085Z
+Eleitor 417,Blumenau,Centro,2,5,Joao Silva,67,Feminino,(47) 95506-6154,eleitor.417@email.com,Voluntario,2025-11-02T03:42:05.350Z
+Eleitor 418,Florianopolis,Ingleses,5,3,Ana Beatriz;Joao Silva;Carlos Eduardo,35,Outro,(49) 91318-5737,,,2024-07-07T03:41:17.093Z
+Eleitor 419,Blumenau,Centro,5,1,Maria Paula;Joao Silva,69,Feminino,(47) 98159-8888,eleitor.419@email.com,,2025-04-26T21:17:02.822Z
+Eleitor 420,Tubarao,Centro,1,3,Ana Beatriz;Maria Paula;Vereador XYZ,25,Feminino,(47) 94748-8605,eleitor.420@email.com,,2023-09-16T22:08:26.139Z
+Eleitor 421,Sao Jose,Centro,3,5,Joao Silva;Ana Beatriz;Maria Paula,42,Feminino,,,Reclamante,2025-05-05T21:37:15.213Z
+Eleitor 422,Blumenau,Centro,4,1,Carlos Eduardo;Vereador XYZ,23,Outro,,,,2024-01-10T04:33:47.510Z
+Eleitor 423,Itajai,Centro,5,1,Carlos Eduardo;Maria Paula,80,Outro,(48) 99211-2665,eleitor.423@email.com,Apoiador Forte,2023-01-03T20:47:50.203Z
+Eleitor 424,Joinville,Iririu,2,1,Ana Beatriz;Carlos Eduardo;Maria Paula,48,Outro,(49) 97688-1981,,Doador,2024-10-21T10:43:48.558Z
+Eleitor 425,Sao Jose,Centro,1,3,Maria Paula;Joao Silva,60,Outro,,,Lideranca,2024-05-27T04:50:03.544Z
+Eleitor 426,Florianopolis,Trindade,4,1,Carlos Eduardo,25,Feminino,,,,2025-11-28T01:59:36.382Z
+Eleitor 427,Florianopolis,Campeche,2,5,Carlos Eduardo;Vereador XYZ;Ana Beatriz,56,Feminino,,,,2024-01-05T03:26:26.819Z
+Eleitor 428,Florianopolis,Trindade,3,1,Joao Silva,51,Feminino,(47) 91948-3487,,Influenciador;Indeciso,2025-06-13T14:08:23.331Z
+Eleitor 429,Blumenau,Centro,4,3,Vereador XYZ,37,Outro,(49) 99472-5194,,,2023-07-31T22:13:03.080Z
+Eleitor 430,Florianopolis,Trindade,4,1,Ana Beatriz;Maria Paula;Vereador XYZ,56,Feminino,,,,2026-02-10T03:39:10.252Z
+Eleitor 431,Blumenau,Centro,3,2,Joao Silva,45,Feminino,(49) 91689-9299,eleitor.431@email.com,Indeciso,2024-06-23T20:36:53.829Z
+Eleitor 432,Joinville,Boa Vista,2,1,Joao Silva,40,Feminino,,,Apoiador Forte,2024-02-08T15:05:33.851Z
+Eleitor 433,Joinville,Aventureiro,4,1,Joao Silva,47,Outro,(47) 93720-8370,,,2023-09-07T05:02:20.793Z
+Eleitor 434,Blumenau,Centro,2,1,Ana Beatriz;Carlos Eduardo,65,Outro,,,Indeciso,2025-12-15T01:18:53.937Z
+Eleitor 435,Balneario Camboriu,Centro,4,3,Ana Beatriz,29,Feminino,(48) 99237-2302,eleitor.435@email.com,,2023-05-02T14:20:42.442Z
+Eleitor 436,Florianopolis,Agronomica,4,4,Carlos Eduardo;Maria Paula;Vereador XYZ,29,Outro,(49) 99059-5845,eleitor.436@email.com,Apoiador Forte;Indeciso,2025-04-16T07:35:44.502Z
+Eleitor 437,Joinville,Iririu,3,5,Ana Beatriz,28,Outro,,,Doador,2025-05-01T11:49:55.602Z
+Eleitor 438,Blumenau,Centro,5,1,Ana Beatriz;Joao Silva,23,Masculino,,,,2023-01-18T04:32:46.139Z
+Eleitor 439,Sao Jose,Centro,2,2,Joao Silva,51,Feminino,(49) 92393-3923,,,2024-11-06T09:41:16.761Z
+Eleitor 440,Blumenau,Centro,2,2,Ana Beatriz;Maria Paula;Carlos Eduardo,34,Feminino,(48) 98186-7973,,Reclamante;Doador,2025-02-20T05:11:31.987Z
+Eleitor 441,Blumenau,Centro,4,1,Joao Silva;Carlos Eduardo;Ana Beatriz,52,Outro,(47) 91399-7399,eleitor.441@email.com,Influenciador,2024-07-20T02:29:28.928Z
+Eleitor 442,Florianopolis,Estreito,3,1,Carlos Eduardo;Joao Silva,24,Feminino,(48) 92484-1289,,Reclamante,2023-07-13T17:42:22.120Z
+Eleitor 443,Florianopolis,Centro,3,1,Ana Beatriz;Maria Paula,56,Feminino,,,,2025-12-22T17:29:54.583Z
+Eleitor 444,Tubarao,Centro,2,4,Joao Silva;Maria Paula;Carlos Eduardo,51,Masculino,(49) 93101-2542,,Lideranca,2026-01-14T08:41:18.315Z
+Eleitor 445,Joinville,Centro,1,1,Ana Beatriz;Joao Silva;Maria Paula,72,Outro,(49) 97681-4739,,,2023-06-27T09:46:49.719Z
+Eleitor 446,Joinville,Aventureiro,4,4,Vereador XYZ;Ana Beatriz,57,Outro,(49) 98964-9672,,Doador,2024-11-02T18:47:33.301Z
+Eleitor 447,Joinville,America,5,2,Vereador XYZ,37,Feminino,(47) 99972-8610,eleitor.447@email.com,Reclamante,2025-03-07T04:32:18.591Z
+Eleitor 448,Itajai,Centro,1,3,Vereador XYZ,43,Feminino,(49) 91297-6704,eleitor.448@email.com,Indeciso,2025-07-10T03:46:14.128Z
+Eleitor 449,Florianopolis,Campeche,4,1,Joao Silva,30,Feminino,(47) 99892-4550,eleitor.449@email.com,,2025-03-03T23:23:31.495Z
+Eleitor 450,Florianopolis,Centro,1,2,Vereador XYZ,24,Feminino,,,,2023-10-19T03:42:02.545Z
+Eleitor 451,Brusque,Centro,1,5,Ana Beatriz;Vereador XYZ;Maria Paula,58,Feminino,(49) 99240-5052,eleitor.451@email.com,Lideranca,2025-02-08T22:01:11.472Z
+Eleitor 452,Joinville,Centro,4,1,Carlos Eduardo;Maria Paula;Vereador XYZ,56,Feminino,(49) 98537-3229,,,2025-08-11T07:24:44.313Z
+Eleitor 453,Lages,Centro,2,3,Carlos Eduardo;Maria Paula;Ana Beatriz,62,Masculino,(48) 91854-9668,eleitor.453@email.com,Indeciso,2025-12-04T11:25:46.447Z
+Eleitor 454,Joinville,Bucarein,5,1,Vereador XYZ;Ana Beatriz,70,Outro,(47) 97160-8664,eleitor.454@email.com,Apoiador Forte,2023-12-26T14:13:34.504Z
+Eleitor 455,Joinville,America,3,1,Maria Paula;Carlos Eduardo,37,Feminino,(48) 95296-8275,,,2025-01-20T21:58:14.477Z
+Eleitor 456,Florianopolis,Campeche,5,3,Joao Silva;Ana Beatriz,38,Outro,(48) 95742-5645,eleitor.456@email.com,,2023-11-30T22:51:49.864Z
+Eleitor 457,Joinville,Boa Vista,1,1,Carlos Eduardo,17,Masculino,(47) 93250-3283,,,2024-12-21T13:30:55.725Z
+Eleitor 458,Balneario Camboriu,Centro,5,3,Ana Beatriz,48,Feminino,(48) 99413-3595,,,2024-04-13T09:07:26.941Z
+Eleitor 459,Sao Jose,Centro,4,1,Joao Silva,18,Outro,(49) 92395-3217,,Reclamante,2024-05-19T22:40:35.390Z
+Eleitor 460,Sao Jose,Centro,2,1,Vereador XYZ,78,Outro,,,,2025-07-02T05:54:12.003Z
+Eleitor 461,Joinville,Costa e Silva,1,1,Vereador XYZ;Ana Beatriz,65,Masculino,(49) 96249-6745,,Influenciador,2023-10-22T16:04:50.616Z
+Eleitor 462,Balneario Camboriu,Centro,2,5,Joao Silva;Maria Paula;Vereador XYZ,68,Outro,,,,2024-02-18T17:01:11.586Z
+Eleitor 463,Joinville,Centro,4,3,Joao Silva;Vereador XYZ,34,Feminino,(48) 98956-4789,eleitor.463@email.com,Apoiador Forte,2024-04-29T18:05:57.809Z
+Eleitor 464,Joinville,Centro,3,3,Vereador XYZ;Maria Paula,53,Outro,(47) 96886-4139,eleitor.464@email.com,,2023-08-22T10:14:36.934Z
+Eleitor 465,Florianopolis,Centro,4,5,Ana Beatriz,18,Outro,(49) 97985-2082,eleitor.465@email.com,,2023-03-09T02:56:45.705Z
+Eleitor 466,Sao Bento do Sul,Centro,1,5,Joao Silva,65,Feminino,(47) 98957-7400,,,2025-02-06T21:08:56.039Z
+Eleitor 467,Criciuma,Centro,3,1,Vereador XYZ,22,Feminino,,,Reclamante,2026-01-05T13:49:04.998Z
+Eleitor 468,Florianopolis,Centro,1,1,Carlos Eduardo;Ana Beatriz,41,Masculino,,,Apoiador Forte,2025-03-14T14:53:48.136Z
+Eleitor 469,Sao Bento do Sul,Centro,5,3,Ana Beatriz,28,Masculino,(49) 91153-6697,,Lideranca;Apoiador Forte,2024-04-07T21:18:28.204Z
+Eleitor 470,Joinville,Centro,1,1,Joao Silva,65,Feminino,,,,2026-03-10T06:24:14.286Z
+Eleitor 471,Joinville,Iririu,3,1,Maria Paula,38,Outro,,,Influenciador,2024-03-09T23:56:14.940Z
+Eleitor 472,Joinville,Costa e Silva,3,2,Ana Beatriz;Joao Silva;Maria Paula,38,Outro,(48) 99959-1699,,,2023-03-20T07:28:16.156Z
+Eleitor 473,Joinville,Centro,5,1,Carlos Eduardo,41,Feminino,(49) 91440-9780,eleitor.473@email.com,Indeciso;Lideranca,2023-10-13T13:18:25.240Z
+Eleitor 474,Sao Jose,Centro,5,5,Joao Silva;Maria Paula;Carlos Eduardo,21,Masculino,(49) 93468-1994,,,2023-06-08T11:22:25.473Z
+Eleitor 475,Blumenau,Centro,3,2,Ana Beatriz;Joao Silva,43,Feminino,(48) 91710-9932,,Influenciador,2023-05-05T18:41:30.651Z
+Eleitor 476,Jaragua do Sul,Centro,2,4,Joao Silva;Maria Paula;Carlos Eduardo,16,Outro,(47) 92571-6612,eleitor.476@email.com,Reclamante;Indeciso,2025-12-01T06:21:06.633Z
+Eleitor 477,Florianopolis,Agronomica,2,2,Joao Silva;Carlos Eduardo;Vereador XYZ,43,Feminino,(49) 91840-5821,,Indeciso,2025-08-05T07:08:05.404Z
+Eleitor 478,Jaragua do Sul,Centro,2,4,Joao Silva;Maria Paula,25,Outro,,,,2025-06-26T17:08:11.332Z
+Eleitor 479,Sao Bento do Sul,Centro,1,2,Vereador XYZ;Maria Paula;Carlos Eduardo,34,Feminino,(48) 91533-7548,eleitor.479@email.com,Voluntario,2024-11-16T18:02:50.886Z
+Eleitor 480,Florianopolis,Trindade,2,2,Joao Silva;Carlos Eduardo;Ana Beatriz,58,Feminino,(49) 95411-6200,eleitor.480@email.com,Indeciso;Doador,2025-08-24T04:07:22.180Z
+Eleitor 481,Joinville,Boa Vista,1,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,56,Masculino,(49) 91645-7577,,Indeciso,2025-09-12T04:00:46.929Z
+Eleitor 482,Blumenau,Centro,2,3,Ana Beatriz;Maria Paula,17,Outro,,,Doador,2024-05-19T05:49:39.140Z
+Eleitor 483,Joinville,Costa e Silva,5,1,Joao Silva;Vereador XYZ;Ana Beatriz,17,Feminino,(48) 96241-3514,eleitor.483@email.com,Doador,2025-09-05T16:14:40.650Z
+Eleitor 484,Joinville,Boa Vista,5,4,Ana Beatriz;Vereador XYZ;Carlos Eduardo,43,Outro,(49) 99222-1782,,Doador,2024-03-14T01:11:25.351Z
+Eleitor 485,Sao Jose,Centro,5,3,Joao Silva;Maria Paula;Carlos Eduardo,47,Masculino,(48) 98060-5232,eleitor.485@email.com,Voluntario,2024-01-01T19:28:25.121Z
+Eleitor 486,Sao Bento do Sul,Centro,2,2,Joao Silva;Maria Paula,59,Feminino,(49) 94673-8785,,Reclamante,2023-04-21T09:19:08.740Z
+Eleitor 487,Tubarao,Centro,2,2,Maria Paula,32,Outro,(48) 99444-4801,,Indeciso,2025-12-22T06:56:37.742Z
+Eleitor 488,Joinville,Boa Vista,2,1,Ana Beatriz,43,Masculino,(49) 94065-8027,eleitor.488@email.com,,2023-03-25T13:45:29.689Z
+Eleitor 489,Sao Jose,Centro,4,1,Joao Silva;Maria Paula,26,Masculino,(49) 92735-3286,,,2024-08-25T23:44:36.348Z
+Eleitor 490,Joinville,Bucarein,3,2,Carlos Eduardo,76,Outro,,,Lideranca,2025-12-25T03:29:41.915Z
+Eleitor 491,Joinville,Aventureiro,2,1,Joao Silva,76,Outro,,,,2024-12-09T06:16:09.170Z
+Eleitor 492,Joinville,Bucarein,4,4,Carlos Eduardo;Ana Beatriz;Maria Paula,58,Outro,,,Influenciador,2023-08-19T05:38:27.542Z
+Eleitor 493,Florianopolis,Ingleses,5,3,Joao Silva,54,Masculino,(47) 97301-5827,,,2024-06-13T09:40:43.122Z
+Eleitor 494,Balneario Camboriu,Centro,5,1,Carlos Eduardo,24,Outro,(49) 99152-1511,,,2025-09-22T04:01:08.236Z
+Eleitor 495,Florianopolis,Estreito,5,4,Ana Beatriz;Joao Silva,55,Masculino,(48) 91538-2106,,Indeciso,2023-10-12T23:10:30.699Z
+Eleitor 496,Joinville,Costa e Silva,2,1,Joao Silva,20,Outro,(49) 94594-8389,,,2024-07-31T17:27:41.627Z
+Eleitor 497,Joinville,Bucarein,4,1,Ana Beatriz;Vereador XYZ;Carlos Eduardo,28,Feminino,,,,2023-08-29T17:02:14.223Z
+Eleitor 498,Florianopolis,Estreito,4,5,Ana Beatriz;Vereador XYZ;Carlos Eduardo,19,Feminino,,,Apoiador Forte,2025-03-22T05:47:38.968Z
+Eleitor 499,Palhoca,Centro,4,2,Carlos Eduardo;Maria Paula,51,Masculino,(49) 93246-5893,,Apoiador Forte;Influenciador,2025-10-29T05:33:20.117Z
+Eleitor 500,Joinville,Boa Vista,4,4,Ana Beatriz;Carlos Eduardo;Maria Paula,35,Outro,(47) 99564-6036,eleitor.500@email.com,Influenciador,2023-08-01T19:37:54.503Z
+Eleitor 501,Joinville,Iririu,5,3,Ana Beatriz;Joao Silva;Maria Paula,38,Masculino,(48) 99279-3728,eleitor.501@email.com,,2025-01-21T12:14:44.778Z
+Eleitor 502,Florianopolis,Coqueiros,3,1,Vereador XYZ,65,Outro,(48) 91209-2312,eleitor.502@email.com,,2023-05-28T10:39:26.407Z
+Eleitor 503,Joinville,Aventureiro,2,3,Vereador XYZ;Ana Beatriz,55,Masculino,(47) 97439-7953,,,2025-10-10T02:37:35.031Z
+Eleitor 504,Florianopolis,Centro,3,1,Joao Silva;Vereador XYZ,37,Feminino,(47) 97271-4918,,Doador,2023-09-15T13:39:59.094Z
+Eleitor 505,Joinville,Centro,3,2,Vereador XYZ;Carlos Eduardo;Maria Paula,74,Masculino,(49) 94564-7034,eleitor.505@email.com,,2025-11-18T09:57:53.697Z
+Eleitor 506,Florianopolis,Campeche,3,3,Maria Paula,77,Masculino,(47) 91272-6848,,Voluntario;Doador,2026-02-26T20:25:06.262Z
+Eleitor 507,Sao Jose,Centro,5,3,Carlos Eduardo,64,Masculino,(47) 92142-9915,eleitor.507@email.com,Influenciador,2023-01-27T07:18:23.504Z
+Eleitor 508,Blumenau,Centro,4,1,Ana Beatriz;Carlos Eduardo,60,Outro,(47) 94868-9907,eleitor.508@email.com,Indeciso,2025-10-15T17:57:23.700Z
+Eleitor 509,Joinville,Iririu,3,2,Joao Silva,72,Masculino,(48) 95819-5805,,Influenciador,2025-05-22T05:39:55.307Z
+Eleitor 510,Balneario Camboriu,Centro,2,2,Maria Paula,71,Feminino,(49) 91125-9079,eleitor.510@email.com,,2024-06-08T14:05:14.146Z
+Eleitor 511,Criciuma,Centro,3,3,Maria Paula,63,Outro,(48) 91237-8587,eleitor.511@email.com,Influenciador,2023-08-19T08:21:48.233Z
+Eleitor 512,Joinville,America,3,1,Ana Beatriz;Joao Silva,41,Feminino,,,,2025-02-25T19:05:29.305Z
+Eleitor 513,Joinville,Boa Vista,1,1,Joao Silva;Maria Paula;Carlos Eduardo,56,Feminino,(47) 99531-3228,,Lideranca,2024-02-17T15:30:31.686Z
+Eleitor 514,Sao Jose,Centro,1,2,Joao Silva;Vereador XYZ,74,Outro,,,,2023-08-24T18:17:43.043Z
+Eleitor 515,Joinville,Bucarein,2,1,Carlos Eduardo;Ana Beatriz;Vereador XYZ,23,Outro,,,,2024-12-14T00:28:50.990Z
+Eleitor 516,Florianopolis,Agronomica,2,1,Ana Beatriz,27,Masculino,(49) 92738-6921,eleitor.516@email.com,,2023-03-21T15:21:17.118Z
+Eleitor 517,Florianopolis,Coqueiros,5,2,Vereador XYZ;Ana Beatriz;Carlos Eduardo,62,Masculino,(47) 95750-5584,eleitor.517@email.com,Apoiador Forte,2023-07-03T09:57:17.880Z
+Eleitor 518,Joinville,America,1,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,71,Feminino,(47) 91649-9270,eleitor.518@email.com,,2025-07-31T07:00:02.534Z
+Eleitor 519,Blumenau,Centro,1,3,Vereador XYZ;Ana Beatriz,79,Feminino,,,Influenciador,2023-09-26T11:33:09.805Z
+Eleitor 520,Sao Jose,Centro,4,2,Joao Silva;Ana Beatriz,55,Masculino,,,Indeciso,2024-08-22T10:40:50.362Z
+Eleitor 521,Joinville,Costa e Silva,2,5,Carlos Eduardo;Maria Paula,35,Feminino,(47) 94583-2722,eleitor.521@email.com,Voluntario,2025-05-15T06:21:26.010Z
+Eleitor 522,Blumenau,Centro,4,1,Carlos Eduardo;Maria Paula;Ana Beatriz,48,Feminino,(49) 99346-9022,eleitor.522@email.com,,2025-07-29T20:39:20.249Z
+Eleitor 523,Florianopolis,Trindade,5,1,Maria Paula;Ana Beatriz,75,Feminino,(49) 96846-3681,eleitor.523@email.com,,2025-11-04T22:22:34.223Z
+Eleitor 524,Florianopolis,Ingleses,2,1,Carlos Eduardo;Ana Beatriz;Vereador XYZ,39,Masculino,,,,2024-03-29T05:39:12.008Z
+Eleitor 525,Balneario Camboriu,Centro,2,2,Ana Beatriz;Joao Silva;Maria Paula,19,Feminino,(47) 99919-7559,,,2023-09-17T19:13:00.193Z
+Eleitor 526,Joinville,Bucarein,3,2,Joao Silva;Maria Paula;Carlos Eduardo,32,Outro,(48) 96250-9786,,,2025-12-13T02:39:19.819Z
+Eleitor 527,Sao Jose,Centro,3,2,Joao Silva,26,Feminino,(48) 93710-5186,eleitor.527@email.com,Indeciso,2024-06-18T23:56:46.589Z
+Eleitor 528,Joinville,Boa Vista,5,5,Vereador XYZ;Ana Beatriz;Carlos Eduardo,61,Feminino,,,Reclamante,2024-04-12T12:42:17.479Z
+Eleitor 529,Chapeco,Centro,2,1,Joao Silva,44,Outro,(48) 92890-9216,eleitor.529@email.com,,2024-04-18T00:13:07.142Z
+Eleitor 530,Sao Jose,Centro,2,1,Ana Beatriz;Carlos Eduardo;Vereador XYZ,68,Masculino,(49) 96446-2570,,Apoiador Forte,2026-02-04T22:40:45.910Z
+Eleitor 531,Palhoca,Centro,2,2,Ana Beatriz;Carlos Eduardo;Maria Paula,29,Outro,(49) 92989-6612,eleitor.531@email.com,Indeciso;Influenciador,2024-11-06T06:34:45.996Z
+Eleitor 532,Joinville,America,1,4,Carlos Eduardo,60,Feminino,,,,2023-02-20T17:36:43.873Z
+Eleitor 533,Blumenau,Centro,1,3,Ana Beatriz;Joao Silva;Maria Paula,36,Outro,(48) 98632-5181,eleitor.533@email.com,,2024-07-17T10:05:51.500Z
+Eleitor 534,Joinville,Bucarein,4,1,Carlos Eduardo,52,Feminino,(49) 92442-2371,eleitor.534@email.com,,2026-02-05T07:33:06.355Z
+Eleitor 535,Florianopolis,Trindade,3,2,Joao Silva;Maria Paula;Vereador XYZ,34,Outro,(47) 91744-5102,eleitor.535@email.com,,2026-03-11T05:15:06.991Z
+Eleitor 536,Joinville,Iririu,5,4,Ana Beatriz,37,Outro,(49) 91690-4466,,Indeciso,2023-04-07T20:10:15.697Z
+Eleitor 537,Joinville,Boa Vista,2,4,Joao Silva;Ana Beatriz;Vereador XYZ,65,Feminino,(48) 96665-4453,eleitor.537@email.com,Apoiador Forte,2023-11-12T12:53:39.435Z
+Eleitor 538,Sao Jose,Centro,1,5,Ana Beatriz;Carlos Eduardo,54,Outro,(49) 95834-7586,,,2023-06-08T01:48:25.112Z
+Eleitor 539,Joinville,America,4,1,Vereador XYZ,77,Feminino,,,Apoiador Forte,2024-06-15T15:02:16.430Z
+Eleitor 540,Blumenau,Centro,1,1,Vereador XYZ,68,Masculino,(49) 94751-7518,eleitor.540@email.com,,2023-09-01T05:26:18.898Z
+Eleitor 541,Joinville,Aventureiro,3,1,Maria Paula;Carlos Eduardo;Vereador XYZ,16,Outro,(47) 97523-3600,eleitor.541@email.com,,2024-03-14T01:25:19.141Z
+Eleitor 542,Joinville,Bucarein,3,2,Joao Silva;Maria Paula;Carlos Eduardo,51,Masculino,(47) 94308-4216,,,2023-09-23T17:19:26.713Z
+Eleitor 543,Joinville,America,5,1,Maria Paula;Ana Beatriz;Carlos Eduardo,68,Outro,,,Lideranca,2025-06-20T08:28:54.467Z
+Eleitor 544,Joinville,Centro,3,1,Joao Silva;Maria Paula;Carlos Eduardo,60,Outro,,,,2024-03-24T14:58:59.432Z
+Eleitor 545,Joinville,Iririu,4,3,Joao Silva;Ana Beatriz,63,Feminino,,,,2023-01-16T07:50:24.855Z
+Eleitor 546,Palhoca,Centro,1,3,Ana Beatriz;Carlos Eduardo;Vereador XYZ,52,Masculino,(48) 91852-8696,eleitor.546@email.com,,2024-12-09T17:26:22.594Z
+Eleitor 547,Sao Bento do Sul,Centro,4,1,Carlos Eduardo;Maria Paula,59,Outro,(49) 95938-1156,eleitor.547@email.com,,2024-12-02T02:06:54.582Z
+Eleitor 548,Joinville,Aventureiro,1,4,Ana Beatriz,16,Masculino,,,,2023-11-23T04:37:15.123Z
+Eleitor 549,Joinville,Aventureiro,4,4,Ana Beatriz;Carlos Eduardo;Vereador XYZ,50,Masculino,,,Apoiador Forte,2023-08-07T02:32:23.935Z
+Eleitor 550,Tubarao,Centro,2,1,Joao Silva,16,Feminino,(49) 93454-2551,,,2023-02-15T08:34:10.938Z
+Eleitor 551,Sao Jose,Centro,4,5,Joao Silva;Ana Beatriz;Maria Paula,64,Feminino,,,Apoiador Forte,2025-11-29T07:43:38.795Z
+Eleitor 552,Sao Jose,Centro,5,5,Vereador XYZ,76,Outro,(48) 91295-5985,,Influenciador,2023-05-15T15:11:25.685Z
+Eleitor 553,Florianopolis,Ingleses,3,2,Carlos Eduardo;Ana Beatriz;Maria Paula,72,Masculino,(48) 91414-1447,,Doador,2023-12-28T05:35:39.050Z
+Eleitor 554,Sao Jose,Centro,1,2,Carlos Eduardo,63,Outro,,,,2024-04-14T04:28:08.051Z
+Eleitor 555,Criciuma,Centro,1,1,Ana Beatriz;Vereador XYZ,17,Masculino,(47) 92687-6623,,Influenciador,2025-11-27T01:41:00.584Z
+Eleitor 556,Sao Jose,Centro,5,3,Ana Beatriz,68,Outro,,,Doador,2025-08-14T10:42:18.172Z
+Eleitor 557,Palhoca,Centro,4,1,Joao Silva,17,Feminino,(49) 98462-1817,,,2023-11-02T09:36:31.976Z
+Eleitor 558,Itajai,Centro,1,3,Maria Paula;Joao Silva;Ana Beatriz,41,Feminino,(48) 98935-2439,eleitor.558@email.com,,2024-01-06T14:05:39.225Z
+Eleitor 559,Joinville,Bucarein,4,1,Joao Silva;Ana Beatriz,62,Feminino,(49) 99479-4797,,,2023-08-12T16:34:59.975Z
+Eleitor 560,Joinville,America,1,1,Joao Silva,31,Masculino,(47) 99240-7387,eleitor.560@email.com,Reclamante,2025-11-06T11:54:45.489Z
+Eleitor 561,Blumenau,Centro,3,2,Maria Paula,37,Feminino,,,Voluntario;Apoiador Forte,2025-12-23T14:25:58.001Z
+Eleitor 562,Joinville,Centro,4,1,Vereador XYZ,16,Masculino,(47) 99772-5329,,Reclamante,2023-10-28T11:35:14.249Z
+Eleitor 563,Lages,Centro,3,2,Joao Silva;Carlos Eduardo,70,Outro,(48) 96548-3973,,Apoiador Forte,2025-01-14T09:23:41.630Z
+Eleitor 564,Joinville,Costa e Silva,1,1,Carlos Eduardo,34,Masculino,(49) 96847-2801,eleitor.564@email.com,Voluntario,2024-04-08T10:14:22.425Z
+Eleitor 565,Joinville,Aventureiro,4,1,Carlos Eduardo;Ana Beatriz,60,Outro,,,Lideranca,2024-02-03T07:36:58.894Z
+Eleitor 566,Jaragua do Sul,Centro,3,2,Vereador XYZ,19,Feminino,(49) 92523-4147,eleitor.566@email.com,Reclamante,2023-06-28T16:13:08.299Z
+Eleitor 567,Blumenau,Centro,1,4,Vereador XYZ;Ana Beatriz,44,Feminino,,,,2023-12-25T09:00:06.895Z
+Eleitor 568,Brusque,Centro,4,3,Joao Silva,58,Feminino,(49) 91730-9914,eleitor.568@email.com,,2023-03-05T14:18:46.993Z
+Eleitor 569,Florianopolis,Trindade,5,2,Joao Silva;Maria Paula,29,Masculino,(48) 97594-8624,,Apoiador Forte,2024-10-09T07:49:49.165Z
+Eleitor 570,Joinville,Centro,2,1,Joao Silva,64,Masculino,,,Reclamante;Lideranca,2025-09-24T20:24:15.819Z
+Eleitor 571,Florianopolis,Estreito,4,3,Ana Beatriz;Vereador XYZ;Joao Silva,32,Outro,(48) 98199-6618,eleitor.571@email.com,Influenciador,2023-02-01T22:00:35.774Z
+Eleitor 572,Balneario Camboriu,Centro,1,4,Joao Silva;Maria Paula,33,Masculino,(47) 99904-7897,,,2024-06-17T22:13:31.350Z
+Eleitor 573,Florianopolis,Centro,5,1,Maria Paula;Joao Silva;Carlos Eduardo,52,Feminino,,,,2025-10-09T17:57:00.694Z
+Eleitor 574,Sao Jose,Centro,2,1,Carlos Eduardo;Maria Paula,31,Masculino,,,Voluntario,2023-10-19T14:45:23.810Z
+Eleitor 575,Blumenau,Centro,2,1,Joao Silva;Maria Paula;Carlos Eduardo,32,Masculino,(47) 98736-7941,,Voluntario,2023-02-24T11:39:33.161Z
+Eleitor 576,Blumenau,Centro,5,2,Joao Silva,16,Outro,(47) 94136-4863,,,2024-04-17T16:27:22.078Z
+Eleitor 577,Blumenau,Centro,5,4,Joao Silva;Maria Paula;Ana Beatriz,35,Masculino,,,Lideranca,2026-01-21T03:23:12.386Z
+Eleitor 578,Sao Jose,Centro,2,4,Joao Silva;Maria Paula,26,Masculino,(47) 98525-6185,,,2023-10-30T18:45:20.000Z
+Eleitor 579,Florianopolis,Coqueiros,2,1,Joao Silva;Maria Paula,16,Masculino,,,Indeciso;Doador,2025-10-23T07:28:20.995Z
+Eleitor 580,Florianopolis,Centro,5,1,Joao Silva;Maria Paula;Vereador XYZ,54,Masculino,,,,2025-06-13T06:16:09.278Z
+Eleitor 581,Joinville,Centro,2,1,Maria Paula;Ana Beatriz;Vereador XYZ,61,Feminino,,,Doador,2025-05-05T23:51:08.934Z
+Eleitor 582,Florianopolis,Agronomica,1,2,Joao Silva,40,Outro,,,,2024-01-19T12:46:20.759Z
+Eleitor 583,Joinville,Iririu,3,5,Vereador XYZ,68,Outro,,,Voluntario,2024-05-25T00:08:21.646Z
+Eleitor 584,Sao Jose,Centro,5,3,Joao Silva;Maria Paula,44,Masculino,(47) 95563-4745,eleitor.584@email.com,Reclamante;Doador,2023-11-11T16:42:34.370Z
+Eleitor 585,Sao Jose,Centro,3,3,Vereador XYZ;Ana Beatriz;Carlos Eduardo,57,Feminino,,,Doador,2023-11-23T11:06:03.348Z
+Eleitor 586,Brusque,Centro,3,3,Carlos Eduardo;Maria Paula;Vereador XYZ,26,Outro,(47) 97345-6746,eleitor.586@email.com,Indeciso,2024-11-28T05:10:46.946Z
+Eleitor 587,Florianopolis,Estreito,5,2,Ana Beatriz;Carlos Eduardo;Maria Paula,46,Masculino,(49) 92400-8506,,,2024-04-04T23:54:17.689Z
+Eleitor 588,Joinville,Costa e Silva,3,1,Joao Silva;Ana Beatriz,32,Feminino,,,,2024-03-07T18:54:56.385Z
+Eleitor 589,Florianopolis,Campeche,4,4,Joao Silva;Ana Beatriz,59,Feminino,(47) 97521-3233,eleitor.589@email.com,Reclamante,2026-01-28T12:14:58.155Z
+Eleitor 590,Blumenau,Centro,3,3,Joao Silva;Maria Paula;Carlos Eduardo,74,Feminino,,,Reclamante,2025-07-27T10:36:34.208Z
+Eleitor 591,Florianopolis,Ingleses,1,4,Joao Silva;Carlos Eduardo;Maria Paula,24,Outro,(49) 97815-5390,eleitor.591@email.com,,2024-03-05T11:47:11.620Z
+Eleitor 592,Joinville,Centro,4,1,Ana Beatriz,35,Masculino,(48) 96037-5666,,Influenciador,2025-11-27T21:37:04.665Z
+Eleitor 593,Itajai,Centro,2,1,Ana Beatriz,32,Outro,(49) 97523-9538,eleitor.593@email.com,Lideranca,2024-12-04T17:32:35.637Z
+Eleitor 594,Florianopolis,Trindade,3,1,Ana Beatriz;Maria Paula,24,Masculino,(49) 96906-7935,,Reclamante,2023-03-11T07:18:29.581Z
+Eleitor 595,Sao Bento do Sul,Centro,3,1,Ana Beatriz;Carlos Eduardo;Maria Paula,33,Feminino,(49) 99783-5458,eleitor.595@email.com,,2023-09-24T14:11:23.277Z
+Eleitor 596,Joinville,Centro,2,3,Ana Beatriz;Carlos Eduardo;Maria Paula,58,Feminino,(47) 98997-2314,,Lideranca,2023-09-12T12:23:45.821Z
+Eleitor 597,Joinville,Aventureiro,2,1,Carlos Eduardo;Maria Paula;Joao Silva,38,Outro,(49) 93962-2019,,Reclamante;Apoiador Forte,2023-04-07T03:01:22.923Z
+Eleitor 598,Itajai,Centro,2,1,Maria Paula;Carlos Eduardo,22,Masculino,(48) 92309-6947,,,2025-10-06T09:28:45.153Z
+Eleitor 599,Florianopolis,Centro,1,1,Joao Silva;Vereador XYZ,48,Masculino,,,,2023-07-22T05:34:32.551Z
+Eleitor 600,Jaragua do Sul,Centro,2,1,Carlos Eduardo,51,Outro,(48) 91689-2571,eleitor.600@email.com,,2025-03-26T22:03:48.085Z
+Eleitor 601,Florianopolis,Trindade,3,2,Ana Beatriz;Joao Silva;Maria Paula,50,Feminino,,,Doador,2024-11-10T08:02:28.463Z
+Eleitor 602,Blumenau,Centro,4,4,Joao Silva;Maria Paula,68,Masculino,(47) 94862-8178,eleitor.602@email.com,Doador,2023-05-17T09:47:16.708Z
+Eleitor 603,Joinville,Centro,1,2,Maria Paula;Carlos Eduardo,28,Masculino,(48) 99403-4637,,,2023-12-07T15:16:04.697Z
+Eleitor 604,Blumenau,Centro,1,4,Carlos Eduardo;Maria Paula;Ana Beatriz,69,Feminino,(47) 91804-3985,,Apoiador Forte,2023-05-09T09:44:09.478Z
+Eleitor 605,Sao Jose,Centro,1,2,Ana Beatriz;Joao Silva,65,Masculino,,,Voluntario;Reclamante,2024-06-04T12:18:45.843Z
+Eleitor 606,Tubarao,Centro,2,1,Vereador XYZ;Joao Silva,80,Outro,(49) 91575-6160,eleitor.606@email.com,Voluntario,2023-02-06T18:19:20.885Z
+Eleitor 607,Joinville,Bucarein,3,2,Ana Beatriz,44,Feminino,(48) 96350-9234,,Apoiador Forte,2025-08-18T11:59:53.649Z
+Eleitor 608,Balneario Camboriu,Centro,4,2,Joao Silva;Ana Beatriz,58,Masculino,(49) 91920-7495,,Doador,2023-01-04T16:20:19.068Z
+Eleitor 609,Jaragua do Sul,Centro,4,2,Carlos Eduardo,16,Masculino,(47) 99401-8685,eleitor.609@email.com,Apoiador Forte;Voluntario,2023-02-21T16:08:15.738Z
+Eleitor 610,Criciuma,Centro,4,1,Vereador XYZ;Ana Beatriz,41,Outro,(48) 97291-7701,eleitor.610@email.com,,2024-02-05T23:22:49.954Z
+Eleitor 611,Florianopolis,Estreito,3,1,Carlos Eduardo,18,Feminino,(49) 94276-1793,eleitor.611@email.com,Indeciso,2025-05-08T11:08:03.594Z
+Eleitor 612,Joinville,America,3,3,Ana Beatriz,17,Outro,(47) 91685-4780,,Voluntario,2023-02-21T17:09:18.692Z
+Eleitor 613,Lages,Centro,2,2,Ana Beatriz;Vereador XYZ,80,Feminino,,,,2024-08-08T07:51:18.568Z
+Eleitor 614,Blumenau,Centro,5,3,Carlos Eduardo;Joao Silva,28,Feminino,(49) 99255-6986,,,2023-01-21T07:03:19.158Z
+Eleitor 615,Florianopolis,Campeche,3,1,Ana Beatriz,27,Masculino,(48) 92970-2916,eleitor.615@email.com,Reclamante,2025-09-22T15:54:11.864Z
+Eleitor 616,Blumenau,Centro,5,2,Ana Beatriz,26,Feminino,,,,2023-09-22T21:24:36.645Z
+Eleitor 617,Joinville,Bucarein,4,2,Ana Beatriz,37,Outro,(47) 91494-8625,,Apoiador Forte,2026-01-02T22:59:42.217Z
+Eleitor 618,Joinville,America,4,2,Joao Silva,46,Feminino,,,,2023-02-24T01:50:07.698Z
+Eleitor 619,Blumenau,Centro,2,1,Carlos Eduardo,44,Masculino,(48) 97839-8677,,Apoiador Forte,2025-08-28T06:46:10.651Z
+Eleitor 620,Joinville,Boa Vista,4,1,Ana Beatriz;Vereador XYZ,63,Masculino,(48) 99450-8167,,Reclamante,2025-12-31T00:15:13.834Z
+Eleitor 621,Sao Jose,Centro,2,2,Carlos Eduardo;Maria Paula;Joao Silva,58,Masculino,(48) 95869-9452,eleitor.621@email.com,,2025-04-27T10:29:25.353Z
+Eleitor 622,Joinville,Boa Vista,3,1,Joao Silva;Maria Paula,21,Outro,(49) 95934-6873,eleitor.622@email.com,,2025-04-05T03:37:37.566Z
+Eleitor 623,Florianopolis,Centro,4,1,Maria Paula;Carlos Eduardo,28,Outro,,,Influenciador,2024-05-01T07:27:06.573Z
+Eleitor 624,Joinville,Bucarein,2,1,Ana Beatriz;Joao Silva,60,Outro,(47) 93017-1183,eleitor.624@email.com,,2023-01-28T19:33:59.058Z
+Eleitor 625,Florianopolis,Ingleses,4,2,Maria Paula;Vereador XYZ;Ana Beatriz,40,Masculino,(48) 94590-8366,,,2023-07-18T23:49:39.723Z
+Eleitor 626,Palhoca,Centro,2,4,Carlos Eduardo,25,Outro,(47) 93928-3851,eleitor.626@email.com,Apoiador Forte,2024-08-14T19:53:45.036Z
+Eleitor 627,Joinville,America,3,2,Joao Silva;Maria Paula,63,Feminino,(48) 99411-5250,,,2024-03-10T16:50:16.553Z
+Eleitor 628,Florianopolis,Coqueiros,5,2,Joao Silva,46,Feminino,(49) 93265-7043,eleitor.628@email.com,Indeciso,2025-07-02T14:38:07.227Z
+Eleitor 629,Florianopolis,Coqueiros,5,3,Carlos Eduardo;Ana Beatriz;Joao Silva,80,Feminino,(47) 95611-1777,,Reclamante,2025-02-08T12:26:40.917Z
+Eleitor 630,Criciuma,Centro,5,2,Vereador XYZ;Maria Paula,36,Feminino,,,,2025-01-18T12:18:55.724Z
+Eleitor 631,Balneario Camboriu,Centro,3,1,Joao Silva;Maria Paula,69,Masculino,,,Reclamante,2026-02-17T05:52:32.340Z
+Eleitor 632,Florianopolis,Campeche,1,1,Maria Paula;Joao Silva;Ana Beatriz,69,Outro,,,Doador,2024-09-27T11:42:16.718Z
+Eleitor 633,Sao Jose,Centro,2,4,Ana Beatriz;Carlos Eduardo;Maria Paula,75,Feminino,(48) 92845-7596,eleitor.633@email.com,,2023-07-14T19:19:09.110Z
+Eleitor 634,Lages,Centro,5,2,Carlos Eduardo;Vereador XYZ,70,Feminino,,,,2023-10-08T18:52:04.348Z
+Eleitor 635,Florianopolis,Agronomica,3,3,Joao Silva;Maria Paula,23,Masculino,,,,2024-02-06T01:42:36.505Z
+Eleitor 636,Joinville,Costa e Silva,4,4,Ana Beatriz,50,Feminino,(49) 99091-9200,,,2026-01-11T06:28:01.749Z
+Eleitor 637,Blumenau,Centro,3,1,Ana Beatriz,30,Masculino,(49) 95318-2368,,,2024-05-20T21:27:21.546Z
+Eleitor 638,Blumenau,Centro,4,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,73,Outro,(48) 97818-6192,eleitor.638@email.com,Apoiador Forte;Reclamante,2023-03-09T08:49:59.708Z
+Eleitor 639,Sao Bento do Sul,Centro,1,1,Joao Silva;Maria Paula,63,Feminino,(47) 92289-1007,,Lideranca,2024-10-31T01:18:08.934Z
+Eleitor 640,Blumenau,Centro,2,3,Ana Beatriz;Vereador XYZ,34,Feminino,(48) 93205-1698,,,2025-11-09T04:43:28.668Z
+Eleitor 641,Joinville,Centro,2,1,Joao Silva;Carlos Eduardo;Vereador XYZ,31,Feminino,(49) 94909-2296,eleitor.641@email.com,Voluntario;Influenciador,2023-09-05T14:28:32.934Z
+Eleitor 642,Joinville,America,2,3,Maria Paula;Ana Beatriz,59,Feminino,,,Lideranca,2023-12-23T06:33:57.897Z
+Eleitor 643,Chapeco,Centro,5,1,Ana Beatriz;Vereador XYZ;Joao Silva,28,Masculino,(47) 93162-5245,eleitor.643@email.com,,2024-08-19T09:08:29.618Z
+Eleitor 644,Florianopolis,Estreito,4,1,Joao Silva,61,Outro,,,,2025-08-05T09:30:13.159Z
+Eleitor 645,Sao Jose,Centro,2,2,Vereador XYZ,37,Feminino,(49) 95448-1235,,,2023-07-13T01:11:13.704Z
+Eleitor 646,Florianopolis,Agronomica,1,5,Carlos Eduardo,72,Outro,(48) 92463-8530,eleitor.646@email.com,Lideranca,2025-06-06T08:42:32.478Z
+Eleitor 647,Joinville,Iririu,1,1,Joao Silva;Maria Paula;Carlos Eduardo,35,Masculino,(47) 95734-8635,eleitor.647@email.com,Reclamante,2026-02-06T13:48:22.325Z
+Eleitor 648,Joinville,America,1,1,Vereador XYZ,23,Masculino,(49) 99780-9520,eleitor.648@email.com,,2026-03-02T03:46:11.871Z
+Eleitor 649,Florianopolis,Centro,5,2,Ana Beatriz,56,Outro,,,,2023-08-11T23:06:24.176Z
+Eleitor 650,Joinville,Costa e Silva,1,5,Joao Silva;Maria Paula;Vereador XYZ,46,Feminino,,,Reclamante,2024-10-05T11:21:47.045Z
+Eleitor 651,Joinville,America,4,3,Maria Paula;Joao Silva;Vereador XYZ,34,Outro,(48) 91869-9128,eleitor.651@email.com,,2023-08-31T02:41:43.454Z
+Eleitor 652,Florianopolis,Agronomica,4,1,Ana Beatriz;Carlos Eduardo,36,Masculino,,,Influenciador;Apoiador Forte,2023-03-12T14:36:58.123Z
+Eleitor 653,Florianopolis,Campeche,4,1,Joao Silva;Maria Paula,23,Masculino,,,Indeciso,2024-07-06T18:17:59.934Z
+Eleitor 654,Florianopolis,Campeche,5,3,Maria Paula,57,Feminino,(49) 98233-7072,eleitor.654@email.com,,2026-02-12T00:15:44.420Z
+Eleitor 655,Blumenau,Centro,5,3,Carlos Eduardo;Ana Beatriz;Vereador XYZ,65,Masculino,(47) 98626-2182,eleitor.655@email.com,,2024-01-29T08:34:59.687Z
+Eleitor 656,Joinville,Centro,1,1,Ana Beatriz,34,Masculino,(47) 96220-2858,eleitor.656@email.com,,2024-11-23T17:01:30.514Z
+Eleitor 657,Florianopolis,Coqueiros,5,2,Maria Paula;Ana Beatriz;Vereador XYZ,31,Feminino,(49) 91437-3202,eleitor.657@email.com,,2023-03-30T14:48:15.631Z
+Eleitor 658,Joinville,Aventureiro,2,3,Carlos Eduardo,38,Outro,,,Doador,2025-12-02T20:34:11.659Z
+Eleitor 659,Blumenau,Centro,5,1,Joao Silva,55,Feminino,,,Reclamante,2023-02-07T08:14:58.848Z
+Eleitor 660,Florianopolis,Agronomica,3,1,Joao Silva;Maria Paula,17,Masculino,(49) 97450-4510,,,2025-07-02T12:55:17.498Z
+Eleitor 661,Joinville,Aventureiro,1,2,Joao Silva;Ana Beatriz;Maria Paula,49,Feminino,(48) 95540-8704,eleitor.661@email.com,Doador,2023-02-25T05:56:35.114Z
+Eleitor 662,Palhoca,Centro,2,1,Joao Silva,32,Outro,(47) 91697-7981,,Influenciador,2024-02-13T13:43:48.473Z
+Eleitor 663,Chapeco,Centro,2,4,Ana Beatriz,58,Masculino,,,Doador,2025-05-30T10:26:46.284Z
+Eleitor 664,Itajai,Centro,5,3,Joao Silva,56,Feminino,(48) 96473-8905,eleitor.664@email.com,,2024-10-08T20:40:16.997Z
+Eleitor 665,Florianopolis,Trindade,3,3,Joao Silva;Maria Paula,46,Outro,(48) 93220-9474,eleitor.665@email.com,Influenciador,2023-01-23T12:00:31.802Z
+Eleitor 666,Chapeco,Centro,1,1,Ana Beatriz;Carlos Eduardo,76,Outro,(47) 98104-1374,,Apoiador Forte,2026-02-14T15:40:51.880Z
+Eleitor 667,Itajai,Centro,1,1,Joao Silva;Maria Paula;Carlos Eduardo,61,Feminino,,,Apoiador Forte,2025-07-07T02:46:34.649Z
+Eleitor 668,Sao Jose,Centro,1,1,Joao Silva,41,Feminino,(49) 99291-7651,eleitor.668@email.com,Apoiador Forte,2024-01-19T11:07:26.280Z
+Eleitor 669,Sao Bento do Sul,Centro,5,3,Ana Beatriz;Vereador XYZ;Joao Silva,35,Masculino,(48) 94217-5541,,Influenciador,2023-02-27T21:05:31.568Z
+Eleitor 670,Sao Jose,Centro,5,2,Carlos Eduardo;Ana Beatriz;Maria Paula,39,Outro,(47) 99614-2487,,,2025-11-30T11:04:36.976Z
+Eleitor 671,Florianopolis,Ingleses,4,5,Vereador XYZ;Ana Beatriz,35,Feminino,(47) 97743-4016,,Doador,2023-07-02T09:27:43.501Z
+Eleitor 672,Joinville,Iririu,1,2,Joao Silva,38,Outro,(48) 92719-4345,,Apoiador Forte,2023-09-23T14:49:35.959Z
+Eleitor 673,Joinville,Costa e Silva,5,1,Joao Silva,27,Feminino,(47) 92518-5515,eleitor.673@email.com,,2025-06-16T20:04:57.703Z
+Eleitor 674,Blumenau,Centro,2,1,Ana Beatriz,30,Masculino,(49) 96146-4889,,Reclamante,2024-10-22T11:10:54.364Z
+Eleitor 675,Joinville,Bucarein,4,4,Ana Beatriz;Carlos Eduardo,47,Feminino,(49) 92248-8961,,Influenciador,2024-06-19T16:03:18.233Z
+Eleitor 676,Tubarao,Centro,4,1,Maria Paula;Vereador XYZ,78,Masculino,(49) 98243-1192,eleitor.676@email.com,Voluntario,2023-07-13T16:28:46.190Z
+Eleitor 677,Balneario Camboriu,Centro,3,3,Joao Silva;Maria Paula,47,Masculino,(49) 93275-6077,eleitor.677@email.com,,2025-11-06T18:56:19.838Z
+Eleitor 678,Blumenau,Centro,3,1,Ana Beatriz;Maria Paula;Vereador XYZ,74,Feminino,(49) 93301-4285,eleitor.678@email.com,,2024-01-02T16:07:21.365Z
+Eleitor 679,Florianopolis,Trindade,4,1,Carlos Eduardo;Ana Beatriz;Joao Silva,36,Outro,,,,2024-05-07T22:34:40.646Z
+Eleitor 680,Joinville,Centro,2,2,Ana Beatriz,28,Masculino,(48) 99961-2948,,Voluntario,2025-05-13T09:35:49.966Z
+Eleitor 681,Lages,Centro,3,4,Joao Silva,40,Outro,(47) 93763-3914,,Doador,2024-07-02T03:48:41.686Z
+Eleitor 682,Joinville,Iririu,1,4,Joao Silva;Vereador XYZ,26,Outro,(49) 97233-5245,eleitor.682@email.com,Reclamante,2025-04-15T05:51:27.039Z
+Eleitor 683,Balneario Camboriu,Centro,1,1,Carlos Eduardo,43,Feminino,,,,2023-10-15T22:59:14.241Z
+Eleitor 684,Chapeco,Centro,1,1,Joao Silva;Maria Paula;Vereador XYZ,37,Feminino,(49) 97451-2287,,,2025-02-19T12:17:21.910Z
+Eleitor 685,Joinville,Centro,4,3,Joao Silva;Ana Beatriz,57,Masculino,(48) 91596-4325,,Voluntario,2023-05-11T19:26:28.978Z
+Eleitor 686,Tubarao,Centro,4,2,Carlos Eduardo,33,Outro,(49) 99548-1111,eleitor.686@email.com,Reclamante,2024-09-21T14:26:07.303Z
+Eleitor 687,Blumenau,Centro,4,2,Joao Silva;Maria Paula,43,Feminino,(47) 95795-9715,eleitor.687@email.com,Voluntario;Reclamante,2024-03-07T13:32:01.307Z
+Eleitor 688,Sao Bento do Sul,Centro,3,3,Ana Beatriz,16,Masculino,(48) 97351-7420,,Voluntario,2023-06-22T17:12:02.016Z
+Eleitor 689,Joinville,America,5,1,Carlos Eduardo,55,Masculino,(49) 94239-3032,eleitor.689@email.com,Voluntario,2025-08-08T11:09:39.925Z
+Eleitor 690,Sao Bento do Sul,Centro,2,1,Joao Silva;Maria Paula;Vereador XYZ,32,Masculino,(47) 97469-9111,,,2025-10-13T18:59:39.107Z
+Eleitor 691,Joinville,Centro,1,3,Maria Paula,76,Outro,(47) 95103-7001,,Voluntario,2024-08-14T22:18:18.875Z
+Eleitor 692,Joinville,Iririu,5,1,Carlos Eduardo;Vereador XYZ;Ana Beatriz,55,Masculino,,,,2024-10-31T00:04:59.326Z
+Eleitor 693,Jaragua do Sul,Centro,2,2,Ana Beatriz;Carlos Eduardo,25,Outro,(49) 92011-8009,,,2024-11-11T11:10:34.733Z
+Eleitor 694,Florianopolis,Coqueiros,3,1,Joao Silva;Carlos Eduardo;Vereador XYZ,57,Feminino,(48) 94085-1184,,Lideranca,2023-10-20T18:36:15.712Z
+Eleitor 695,Florianopolis,Ingleses,2,2,Maria Paula;Vereador XYZ,59,Masculino,(48) 95918-9150,,,2023-02-21T18:03:24.447Z
+Eleitor 696,Joinville,Costa e Silva,1,2,Joao Silva,36,Masculino,(49) 95450-8425,,Voluntario,2025-09-20T09:36:47.354Z
+Eleitor 697,Jaragua do Sul,Centro,2,3,Vereador XYZ,49,Masculino,,,Doador,2025-07-20T13:47:46.702Z
+Eleitor 698,Florianopolis,Centro,5,2,Carlos Eduardo;Vereador XYZ;Ana Beatriz,35,Outro,(49) 96351-9233,eleitor.698@email.com,,2023-06-17T21:30:27.424Z
+Eleitor 699,Joinville,America,3,1,Vereador XYZ,70,Masculino,,,Lideranca,2025-12-25T23:10:09.688Z
+Eleitor 700,Florianopolis,Estreito,5,3,Vereador XYZ;Carlos Eduardo;Maria Paula,75,Masculino,(48) 95826-4352,,Lideranca;Voluntario,2023-04-02T06:50:18.299Z
+Eleitor 701,Florianopolis,Campeche,2,4,Maria Paula;Vereador XYZ;Joao Silva,67,Outro,,,,2025-01-11T15:19:26.643Z
+Eleitor 702,Joinville,Bucarein,4,1,Ana Beatriz,60,Feminino,(47) 92556-3275,,,2024-03-15T22:12:02.469Z
+Eleitor 703,Blumenau,Centro,2,1,Ana Beatriz,72,Outro,,,,2025-02-02T08:21:25.836Z
+Eleitor 704,Florianopolis,Centro,1,2,Joao Silva;Maria Paula,40,Feminino,(47) 97284-1284,eleitor.704@email.com,,2024-07-18T07:24:30.505Z
+Eleitor 705,Joinville,Bucarein,4,1,Joao Silva;Vereador XYZ,35,Feminino,,,Influenciador,2024-08-17T17:39:45.645Z
+Eleitor 706,Florianopolis,Centro,1,3,Maria Paula;Carlos Eduardo,72,Feminino,(47) 99395-2165,eleitor.706@email.com,Indeciso,2023-06-15T19:24:02.129Z
+Eleitor 707,Balneario Camboriu,Centro,3,2,Joao Silva;Maria Paula;Carlos Eduardo,20,Outro,,,Apoiador Forte,2025-08-10T23:51:45.654Z
+Eleitor 708,Blumenau,Centro,3,2,Vereador XYZ;Ana Beatriz;Carlos Eduardo,42,Masculino,,,Influenciador,2025-09-10T02:56:19.279Z
+Eleitor 709,Florianopolis,Ingleses,2,1,Ana Beatriz,78,Masculino,,,Indeciso,2024-04-23T21:40:23.259Z
+Eleitor 710,Jaragua do Sul,Centro,4,2,Joao Silva,75,Masculino,,,Influenciador,2023-10-23T05:41:51.693Z
+Eleitor 711,Joinville,Aventureiro,3,1,Joao Silva,31,Outro,,,Influenciador,2023-03-27T14:40:38.043Z
+Eleitor 712,Florianopolis,Trindade,4,1,Ana Beatriz,51,Masculino,,,Reclamante,2025-05-29T06:03:18.117Z
+Eleitor 713,Jaragua do Sul,Centro,1,1,Vereador XYZ;Joao Silva,24,Feminino,,,Voluntario,2024-11-10T08:38:37.786Z
+Eleitor 714,Blumenau,Centro,4,1,Vereador XYZ,26,Masculino,(49) 99931-9731,eleitor.714@email.com,,2024-02-16T08:05:52.251Z
+Eleitor 715,Florianopolis,Agronomica,5,4,Joao Silva;Maria Paula;Carlos Eduardo,22,Outro,(49) 91381-7625,eleitor.715@email.com,Influenciador,2025-08-31T16:24:04.114Z
+Eleitor 716,Florianopolis,Ingleses,4,3,Vereador XYZ,54,Feminino,,,Voluntario;Apoiador Forte,2025-06-02T10:41:48.449Z
+Eleitor 717,Sao Jose,Centro,3,5,Carlos Eduardo;Maria Paula,36,Outro,,,Influenciador;Lideranca,2025-02-17T14:28:38.570Z
+Eleitor 718,Florianopolis,Centro,1,2,Joao Silva,57,Outro,(47) 93410-7808,,Lideranca,2026-02-02T06:11:29.617Z
+Eleitor 719,Brusque,Centro,1,1,Joao Silva;Maria Paula;Carlos Eduardo,47,Outro,(49) 95949-6514,eleitor.719@email.com,,2025-10-19T08:36:26.464Z
+Eleitor 720,Joinville,Aventureiro,2,3,Joao Silva,34,Outro,(49) 92367-4730,eleitor.720@email.com,Reclamante,2023-04-19T22:15:33.803Z
+Eleitor 721,Joinville,Boa Vista,5,3,Joao Silva;Maria Paula;Carlos Eduardo,24,Feminino,(48) 98685-4675,eleitor.721@email.com,Voluntario;Influenciador,2025-03-01T10:16:26.007Z
+Eleitor 722,Florianopolis,Centro,3,1,Ana Beatriz;Joao Silva;Vereador XYZ,61,Outro,(49) 99267-8907,eleitor.722@email.com,Voluntario,2023-11-19T03:32:54.001Z
+Eleitor 723,Blumenau,Centro,1,2,Joao Silva;Maria Paula;Vereador XYZ,77,Feminino,,,Apoiador Forte;Voluntario,2025-08-21T07:29:28.497Z
+Eleitor 724,Sao Jose,Centro,4,4,Ana Beatriz,55,Feminino,(47) 98262-4705,,Voluntario,2024-12-21T11:10:02.560Z
+Eleitor 725,Joinville,America,2,2,Joao Silva;Carlos Eduardo,53,Masculino,(48) 96879-5450,,Apoiador Forte,2024-05-04T07:05:43.823Z
+Eleitor 726,Florianopolis,Ingleses,3,5,Joao Silva;Maria Paula;Carlos Eduardo,51,Feminino,(48) 92557-6702,eleitor.726@email.com,,2023-04-17T11:53:46.139Z
+Eleitor 727,Blumenau,Centro,5,1,Vereador XYZ;Maria Paula;Carlos Eduardo,22,Feminino,,,,2023-09-07T04:43:06.398Z
+Eleitor 728,Joinville,Bucarein,5,1,Joao Silva,72,Outro,(48) 97842-4406,,,2024-07-15T16:37:19.602Z
+Eleitor 729,Joinville,America,2,1,Vereador XYZ;Ana Beatriz,22,Feminino,(48) 93649-5514,eleitor.729@email.com,Doador,2023-03-27T17:57:37.456Z
+Eleitor 730,Blumenau,Centro,5,1,Joao Silva;Maria Paula,52,Outro,(47) 99974-8981,eleitor.730@email.com,Indeciso;Doador,2023-04-16T09:44:14.995Z
+Eleitor 731,Joinville,America,1,1,Joao Silva,66,Masculino,(49) 99485-6136,,Lideranca,2025-02-23T01:14:35.198Z
+Eleitor 732,Joinville,America,5,3,Carlos Eduardo;Maria Paula,39,Outro,,,Doador,2024-01-13T03:22:10.439Z
+Eleitor 733,Florianopolis,Centro,3,1,Joao Silva,17,Feminino,(48) 99461-8746,eleitor.733@email.com,Lideranca,2024-11-25T02:29:06.297Z
+Eleitor 734,Joinville,Iririu,2,1,Joao Silva;Carlos Eduardo;Ana Beatriz,54,Feminino,(48) 95072-2116,,,2025-04-03T03:13:45.719Z
+Eleitor 735,Joinville,Aventureiro,2,1,Joao Silva,49,Outro,(48) 94085-6723,,,2023-01-14T15:08:46.868Z
+Eleitor 736,Joinville,Boa Vista,4,4,Maria Paula,27,Masculino,,,Lideranca;Doador,2025-03-27T03:37:41.265Z
+Eleitor 737,Joinville,Iririu,3,3,Vereador XYZ;Joao Silva,37,Masculino,(48) 93198-5000,,,2025-12-31T07:58:31.301Z
+Eleitor 738,Sao Jose,Centro,1,4,Vereador XYZ;Ana Beatriz,68,Feminino,(49) 99579-4058,,Reclamante,2023-05-12T12:18:51.103Z
+Eleitor 739,Florianopolis,Campeche,1,2,Carlos Eduardo;Vereador XYZ,75,Outro,(47) 91889-5684,,,2023-02-11T22:42:08.880Z
+Eleitor 740,Florianopolis,Trindade,2,2,Joao Silva,72,Masculino,(48) 99900-8364,,,2023-12-13T00:59:48.305Z
+Eleitor 741,Sao Jose,Centro,2,1,Maria Paula,24,Feminino,(48) 97354-7158,,Indeciso,2024-04-15T17:16:55.275Z
+Eleitor 742,Jaragua do Sul,Centro,5,1,Carlos Eduardo;Joao Silva;Ana Beatriz,54,Outro,,,Apoiador Forte,2026-02-18T10:48:46.744Z
+Eleitor 743,Lages,Centro,1,1,Joao Silva,20,Masculino,,,,2025-03-15T23:09:22.236Z
+Eleitor 744,Joinville,Iririu,5,1,Ana Beatriz,45,Outro,(47) 93189-3309,,Influenciador;Indeciso,2023-08-19T21:15:04.162Z
+Eleitor 745,Florianopolis,Coqueiros,3,2,Ana Beatriz;Carlos Eduardo;Vereador XYZ,23,Outro,(48) 91145-5819,eleitor.745@email.com,Voluntario,2024-06-15T16:47:00.956Z
+Eleitor 746,Joinville,Boa Vista,1,1,Maria Paula,67,Outro,(47) 97033-2864,eleitor.746@email.com,,2025-05-29T03:51:45.237Z
+Eleitor 747,Joinville,Costa e Silva,3,3,Joao Silva;Ana Beatriz;Maria Paula,45,Feminino,(48) 92772-9442,,,2025-10-17T10:16:45.857Z
+Eleitor 748,Blumenau,Centro,1,1,Maria Paula;Joao Silva;Vereador XYZ,22,Masculino,(47) 92996-1894,eleitor.748@email.com,Apoiador Forte,2023-09-12T07:48:00.868Z
+Eleitor 749,Florianopolis,Centro,5,1,Carlos Eduardo;Ana Beatriz;Maria Paula,56,Feminino,(48) 93832-6741,,,2025-08-15T03:39:24.911Z
+Eleitor 750,Balneario Camboriu,Centro,3,1,Joao Silva;Maria Paula,64,Masculino,(49) 96342-5546,eleitor.750@email.com,Indeciso,2023-10-28T01:49:00.885Z
+Eleitor 751,Sao Jose,Centro,3,4,Ana Beatriz;Carlos Eduardo,47,Masculino,(47) 99374-3192,eleitor.751@email.com,,2025-04-15T06:08:10.619Z
+Eleitor 752,Joinville,Centro,1,2,Ana Beatriz;Joao Silva;Maria Paula,25,Feminino,(48) 95098-2775,,,2024-12-26T14:00:16.256Z
+Eleitor 753,Joinville,Boa Vista,1,1,Ana Beatriz,64,Masculino,,,,2025-10-02T22:59:50.643Z
+Eleitor 754,Blumenau,Centro,1,2,Vereador XYZ;Carlos Eduardo;Maria Paula,48,Feminino,(49) 91931-7749,,Lideranca,2026-01-02T19:57:18.804Z
+Eleitor 755,Lages,Centro,2,1,Vereador XYZ;Carlos Eduardo,72,Feminino,(47) 99454-8500,,Reclamante,2024-06-21T20:31:09.728Z
+Eleitor 756,Sao Jose,Centro,1,1,Joao Silva,41,Outro,,,Reclamante;Apoiador Forte,2025-07-03T04:18:15.582Z
+Eleitor 757,Florianopolis,Trindade,3,2,Ana Beatriz;Maria Paula,24,Feminino,(47) 98232-4326,,Indeciso,2024-04-03T11:34:56.102Z
+Eleitor 758,Lages,Centro,4,1,Joao Silva;Ana Beatriz,76,Masculino,(47) 98568-4753,eleitor.758@email.com,,2024-08-19T02:47:05.562Z
+Eleitor 759,Florianopolis,Coqueiros,4,2,Maria Paula,55,Masculino,(48) 92069-7780,eleitor.759@email.com,Indeciso,2025-10-28T04:59:10.600Z
+Eleitor 760,Sao Jose,Centro,1,1,Ana Beatriz;Carlos Eduardo,28,Masculino,(48) 93049-5534,,,2025-05-18T20:33:58.012Z
+Eleitor 761,Lages,Centro,3,1,Joao Silva;Ana Beatriz,68,Outro,,,,2024-06-03T23:55:34.938Z
+Eleitor 762,Joinville,Centro,3,4,Carlos Eduardo;Ana Beatriz,74,Masculino,(47) 93496-2927,eleitor.762@email.com,Apoiador Forte,2023-07-06T01:38:19.394Z
+Eleitor 763,Joinville,Iririu,3,3,Joao Silva,71,Feminino,,,Influenciador,2023-05-20T07:01:25.409Z
+Eleitor 764,Sao Jose,Centro,2,1,Carlos Eduardo;Ana Beatriz,42,Masculino,(47) 97325-8456,eleitor.764@email.com,Voluntario,2025-04-11T13:48:34.802Z
+Eleitor 765,Joinville,Centro,1,1,Ana Beatriz;Maria Paula,67,Masculino,(49) 98317-8508,,Voluntario,2025-12-06T03:51:45.993Z
+Eleitor 766,Brusque,Centro,1,2,Ana Beatriz,51,Masculino,,,,2024-03-02T09:57:07.548Z
+Eleitor 767,Sao Jose,Centro,1,1,Joao Silva;Maria Paula;Carlos Eduardo,73,Feminino,(47) 97963-5844,eleitor.767@email.com,,2024-07-03T07:53:38.555Z
+Eleitor 768,Criciuma,Centro,2,1,Vereador XYZ;Joao Silva;Maria Paula,26,Outro,(48) 95844-9175,eleitor.768@email.com,,2025-06-28T02:36:17.368Z
+Eleitor 769,Florianopolis,Centro,5,1,Ana Beatriz;Carlos Eduardo;Vereador XYZ,50,Feminino,(47) 95368-4465,,Indeciso,2026-02-19T12:54:04.873Z
+Eleitor 770,Joinville,Iririu,1,4,Maria Paula,61,Feminino,(49) 97854-1761,eleitor.770@email.com,,2024-02-08T16:42:10.917Z
+Eleitor 771,Blumenau,Centro,3,1,Joao Silva;Carlos Eduardo,43,Masculino,,,Voluntario;Apoiador Forte,2023-08-02T02:50:24.548Z
+Eleitor 772,Balneario Camboriu,Centro,4,1,Ana Beatriz;Carlos Eduardo,49,Feminino,,,Influenciador,2023-11-01T01:01:35.618Z
+Eleitor 773,Florianopolis,Agronomica,5,5,Joao Silva;Maria Paula,77,Masculino,(48) 92738-6128,eleitor.773@email.com,Influenciador,2024-09-07T18:13:47.368Z
+Eleitor 774,Sao Jose,Centro,4,2,Maria Paula,27,Feminino,(47) 91206-8309,,Lideranca,2025-03-07T15:43:11.496Z
+Eleitor 775,Jaragua do Sul,Centro,2,1,Carlos Eduardo;Maria Paula;Joao Silva,65,Feminino,(49) 93610-1729,eleitor.775@email.com,Reclamante,2023-10-31T17:19:07.708Z
+Eleitor 776,Lages,Centro,4,2,Carlos Eduardo;Maria Paula,27,Feminino,(47) 96995-8739,eleitor.776@email.com,Apoiador Forte,2023-03-10T15:20:44.493Z
+Eleitor 777,Florianopolis,Agronomica,2,3,Ana Beatriz;Vereador XYZ,23,Outro,(49) 99564-4542,,Apoiador Forte,2023-12-06T04:17:34.154Z
+Eleitor 778,Itajai,Centro,3,3,Joao Silva,21,Masculino,(49) 99625-6474,eleitor.778@email.com,,2024-06-26T18:24:28.055Z
+Eleitor 779,Sao Bento do Sul,Centro,2,2,Joao Silva;Maria Paula,40,Feminino,(48) 96061-1962,eleitor.779@email.com,,2023-06-19T03:44:03.014Z
+Eleitor 780,Sao Jose,Centro,3,2,Carlos Eduardo,58,Masculino,(47) 92433-7047,eleitor.780@email.com,,2023-12-11T04:54:10.416Z
+Eleitor 781,Chapeco,Centro,3,3,Joao Silva;Ana Beatriz;Maria Paula,44,Masculino,(49) 93143-1704,,Influenciador,2025-04-26T15:47:49.110Z
+Eleitor 782,Blumenau,Centro,2,1,Joao Silva;Maria Paula,24,Outro,(49) 94539-2961,eleitor.782@email.com,Influenciador;Indeciso,2023-07-17T11:36:36.131Z
+Eleitor 783,Sao Jose,Centro,3,3,Joao Silva;Maria Paula;Carlos Eduardo,80,Outro,(49) 98623-5353,,,2025-09-16T18:34:22.232Z
+Eleitor 784,Sao Jose,Centro,4,1,Ana Beatriz;Joao Silva;Maria Paula,80,Masculino,(49) 93232-1253,,,2025-06-11T16:17:22.902Z
+Eleitor 785,Florianopolis,Estreito,4,2,Vereador XYZ;Ana Beatriz;Carlos Eduardo,42,Feminino,(49) 95660-9784,,,2023-01-17T19:09:08.468Z
+Eleitor 786,Blumenau,Centro,3,5,Joao Silva,21,Feminino,,,Reclamante,2025-12-10T14:12:22.844Z
+Eleitor 787,Sao Jose,Centro,5,4,Joao Silva;Vereador XYZ;Carlos Eduardo,70,Outro,(47) 93258-5096,eleitor.787@email.com,,2023-06-12T06:27:02.607Z
+Eleitor 788,Florianopolis,Centro,2,4,Joao Silva,44,Masculino,,,Apoiador Forte,2024-07-13T07:37:01.100Z
+Eleitor 789,Joinville,Iririu,3,2,Ana Beatriz;Joao Silva,76,Masculino,(48) 92347-1443,,Indeciso,2025-09-03T20:25:20.472Z
+Eleitor 790,Joinville,America,3,5,Vereador XYZ;Ana Beatriz,52,Masculino,,,Influenciador,2025-01-01T21:16:54.703Z
+Eleitor 791,Sao Jose,Centro,5,2,Ana Beatriz;Joao Silva,44,Outro,(47) 93050-1932,eleitor.791@email.com,Lideranca,2024-01-07T01:07:14.483Z
+Eleitor 792,Jaragua do Sul,Centro,1,1,Carlos Eduardo;Maria Paula;Joao Silva,50,Feminino,(47) 98863-4517,,Influenciador,2023-04-15T00:27:37.799Z
+Eleitor 793,Blumenau,Centro,5,1,Joao Silva;Maria Paula,50,Outro,(49) 94117-2946,,Indeciso,2025-01-29T05:09:41.858Z
+Eleitor 794,Joinville,Bucarein,1,1,Vereador XYZ,63,Outro,(49) 92331-6216,eleitor.794@email.com,Indeciso,2026-03-03T10:05:42.509Z
+Eleitor 795,Brusque,Centro,1,1,Ana Beatriz;Maria Paula,18,Outro,(48) 91504-3519,eleitor.795@email.com,Reclamante,2025-07-29T07:57:26.131Z
+Eleitor 796,Joinville,Boa Vista,1,2,Ana Beatriz;Vereador XYZ,38,Feminino,,,Voluntario,2026-01-05T21:46:50.617Z
+Eleitor 797,Tubarao,Centro,3,1,Vereador XYZ;Maria Paula,62,Feminino,(49) 98046-8125,eleitor.797@email.com,Voluntario;Apoiador Forte,2023-12-14T20:18:15.681Z
+Eleitor 798,Brusque,Centro,4,1,Joao Silva;Maria Paula;Carlos Eduardo,52,Outro,(47) 95208-5042,,Doador;Voluntario,2025-11-17T14:53:28.388Z
+Eleitor 799,Jaragua do Sul,Centro,1,1,Carlos Eduardo;Ana Beatriz,36,Masculino,(47) 94158-3614,eleitor.799@email.com,,2023-11-09T13:25:30.319Z
+Eleitor 800,Palhoca,Centro,1,1,Joao Silva,35,Outro,,,Influenciador,2026-01-17T10:17:53.437Z
+Eleitor 801,Joinville,Aventureiro,2,1,Carlos Eduardo;Maria Paula;Joao Silva,58,Feminino,(49) 94523-5357,eleitor.801@email.com,Apoiador Forte,2023-06-16T22:40:04.035Z
+Eleitor 802,Sao Jose,Centro,5,1,Maria Paula;Joao Silva;Ana Beatriz,72,Outro,(49) 96643-9925,eleitor.802@email.com,,2023-04-17T08:24:22.448Z
+Eleitor 803,Criciuma,Centro,1,1,Maria Paula;Carlos Eduardo,31,Masculino,,,Reclamante,2025-09-21T23:32:19.159Z
+Eleitor 804,Tubarao,Centro,3,2,Carlos Eduardo,26,Outro,,,Apoiador Forte,2025-10-17T20:56:53.790Z
+Eleitor 805,Blumenau,Centro,5,5,Carlos Eduardo,60,Outro,,,Reclamante,2024-02-11T03:48:52.563Z
+Eleitor 806,Jaragua do Sul,Centro,3,2,Vereador XYZ,22,Masculino,(48) 93485-1509,,Apoiador Forte,2025-08-10T23:33:42.627Z
+Eleitor 807,Joinville,Iririu,3,3,Vereador XYZ,62,Feminino,(49) 97153-1374,eleitor.807@email.com,Apoiador Forte,2024-05-31T14:15:41.415Z
+Eleitor 808,Joinville,Boa Vista,5,1,Ana Beatriz,53,Masculino,,,Reclamante,2025-02-26T20:31:57.391Z
+Eleitor 809,Florianopolis,Ingleses,3,1,Vereador XYZ;Ana Beatriz,40,Outro,(48) 92912-3920,eleitor.809@email.com,,2025-10-10T18:54:19.568Z
+Eleitor 810,Joinville,Centro,4,1,Ana Beatriz;Joao Silva;Maria Paula,41,Outro,,,Voluntario,2023-05-16T19:07:14.244Z
+Eleitor 811,Blumenau,Centro,1,1,Carlos Eduardo;Maria Paula,71,Masculino,,,Lideranca,2025-03-02T17:10:37.299Z
+Eleitor 812,Sao Jose,Centro,4,3,Joao Silva,20,Masculino,,,Reclamante,2024-05-06T20:56:19.258Z
+Eleitor 813,Joinville,Costa e Silva,1,3,Carlos Eduardo;Maria Paula,21,Masculino,(48) 91061-6651,eleitor.813@email.com,,2025-10-29T15:03:44.476Z
+Eleitor 814,Brusque,Centro,3,3,Ana Beatriz;Carlos Eduardo;Vereador XYZ,49,Masculino,(48) 91665-5514,,,2025-12-27T16:02:31.591Z
+Eleitor 815,Florianopolis,Ingleses,3,1,Vereador XYZ,43,Feminino,(47) 98048-7193,,,2025-02-16T02:00:25.773Z
+Eleitor 816,Jaragua do Sul,Centro,2,1,Joao Silva,71,Outro,(49) 99701-8803,,,2025-05-21T17:21:59.057Z
+Eleitor 817,Sao Jose,Centro,1,1,Carlos Eduardo;Maria Paula,48,Masculino,,,Reclamante,2025-06-12T02:36:28.793Z
+Eleitor 818,Florianopolis,Agronomica,4,2,Joao Silva;Ana Beatriz;Vereador XYZ,78,Outro,(49) 97770-6509,eleitor.818@email.com,Influenciador,2025-08-10T22:35:38.987Z
+Eleitor 819,Florianopolis,Centro,4,4,Maria Paula;Joao Silva;Carlos Eduardo,41,Outro,,,Apoiador Forte,2026-02-13T13:10:52.054Z
+Eleitor 820,Florianopolis,Ingleses,5,1,Vereador XYZ;Joao Silva,20,Feminino,(47) 99742-6359,eleitor.820@email.com,,2025-08-25T21:37:35.592Z
+Eleitor 821,Joinville,Costa e Silva,5,3,Joao Silva,37,Outro,,,,2023-08-08T00:38:56.810Z
+Eleitor 822,Blumenau,Centro,3,5,Joao Silva;Carlos Eduardo,58,Feminino,,,Reclamante,2024-11-27T09:10:44.796Z
+Eleitor 823,Joinville,Boa Vista,1,2,Carlos Eduardo;Vereador XYZ;Ana Beatriz,57,Outro,(49) 99228-3675,,Reclamante,2024-09-19T14:58:05.405Z
+Eleitor 824,Florianopolis,Estreito,1,1,Ana Beatriz,73,Outro,(48) 99465-8429,,,2024-10-13T18:30:55.743Z
+Eleitor 825,Joinville,Costa e Silva,4,4,Carlos Eduardo,44,Outro,(48) 95030-5177,eleitor.825@email.com,,2025-11-24T13:39:01.465Z
+Eleitor 826,Joinville,America,1,1,Joao Silva,51,Feminino,,,,2024-09-29T20:18:29.369Z
+Eleitor 827,Joinville,Aventureiro,3,3,Vereador XYZ;Ana Beatriz;Joao Silva,16,Feminino,,,Lideranca;Apoiador Forte,2024-02-27T21:13:36.710Z
+Eleitor 828,Florianopolis,Campeche,1,1,Carlos Eduardo,66,Outro,,,,2023-11-08T01:13:23.847Z
+Eleitor 829,Tubarao,Centro,1,1,Ana Beatriz;Carlos Eduardo;Maria Paula,69,Feminino,(47) 91964-4324,eleitor.829@email.com,Indeciso,2024-08-25T07:25:22.227Z
+Eleitor 830,Florianopolis,Agronomica,5,3,Maria Paula;Joao Silva,75,Outro,,,,2023-09-17T01:42:20.184Z
+Eleitor 831,Lages,Centro,4,1,Joao Silva;Maria Paula,47,Masculino,(47) 96992-9699,,Reclamante,2024-01-22T11:28:54.378Z
+Eleitor 832,Florianopolis,Coqueiros,3,4,Carlos Eduardo;Joao Silva;Maria Paula,28,Outro,(48) 94310-3201,,Doador,2025-10-09T06:22:14.366Z
+Eleitor 833,Florianopolis,Coqueiros,2,1,Maria Paula,52,Outro,,,Voluntario,2023-06-20T06:19:16.690Z
+Eleitor 834,Florianopolis,Centro,4,1,Vereador XYZ,30,Masculino,,,Lideranca;Apoiador Forte,2023-02-28T15:47:01.677Z
+Eleitor 835,Criciuma,Centro,5,1,Joao Silva;Carlos Eduardo,30,Outro,(48) 97379-4058,eleitor.835@email.com,Apoiador Forte,2025-05-11T13:11:25.816Z
+Eleitor 836,Joinville,Centro,2,4,Joao Silva;Ana Beatriz;Maria Paula,75,Outro,,,Indeciso,2025-04-23T21:41:14.468Z
+Eleitor 837,Joinville,Costa e Silva,5,1,Vereador XYZ;Ana Beatriz;Joao Silva,48,Outro,(49) 96669-2458,,Influenciador;Indeciso,2025-01-23T05:57:23.006Z
+Eleitor 838,Florianopolis,Agronomica,5,3,Vereador XYZ,29,Masculino,(48) 96474-8237,eleitor.838@email.com,Reclamante;Influenciador,2023-02-27T21:16:48.769Z
+Eleitor 839,Sao Jose,Centro,4,3,Joao Silva;Maria Paula,79,Masculino,(49) 96444-3296,eleitor.839@email.com,Lideranca,2025-08-17T23:06:08.597Z
+Eleitor 840,Sao Jose,Centro,3,1,Maria Paula,32,Outro,,,Voluntario,2024-10-01T08:56:05.155Z
+Eleitor 841,Sao Jose,Centro,2,4,Vereador XYZ;Carlos Eduardo,23,Outro,(47) 99263-6713,eleitor.841@email.com,,2023-06-27T18:37:06.213Z
+Eleitor 842,Joinville,Centro,5,1,Maria Paula;Joao Silva,45,Outro,(48) 95987-2091,eleitor.842@email.com,Indeciso,2024-11-08T12:08:45.098Z
+Eleitor 843,Sao Jose,Centro,5,3,Maria Paula;Vereador XYZ;Carlos Eduardo,56,Outro,,,,2023-04-05T19:41:43.997Z
+Eleitor 844,Florianopolis,Coqueiros,1,1,Carlos Eduardo;Maria Paula;Vereador XYZ,42,Masculino,(47) 97046-8301,,Apoiador Forte,2024-08-12T21:55:52.053Z
+Eleitor 845,Joinville,Boa Vista,5,1,Maria Paula;Vereador XYZ;Joao Silva,76,Outro,(49) 95532-1016,,Influenciador,2024-05-09T03:07:33.344Z
+Eleitor 846,Florianopolis,Trindade,1,1,Vereador XYZ;Ana Beatriz;Carlos Eduardo,64,Feminino,(48) 91387-5638,,,2025-10-30T22:10:06.451Z
+Eleitor 847,Joinville,Iririu,2,3,Maria Paula,54,Outro,(48) 96125-2919,,Indeciso,2023-12-23T03:01:09.177Z
+Eleitor 848,Florianopolis,Centro,3,1,Vereador XYZ;Ana Beatriz,59,Outro,(49) 99815-8989,,Lideranca,2023-09-18T02:17:52.594Z
+Eleitor 849,Blumenau,Centro,3,1,Joao Silva;Maria Paula;Carlos Eduardo,80,Feminino,(48) 99002-7795,,Apoiador Forte;Reclamante,2025-01-26T05:27:54.575Z
+Eleitor 850,Itajai,Centro,4,1,Ana Beatriz,42,Masculino,(49) 93785-1473,eleitor.850@email.com,Lideranca,2023-08-03T22:30:56.404Z
